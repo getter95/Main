@@ -419,3 +419,91 @@ vmess://eyJhZGQiOiIxMzUuMTgxLjEwNC4yIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiZ29v
 vmess 🇫🇮
 
 @prrofile_purple
+
+موتور جستجوی سرور v2ray:
+vmess://eyJhZGQiOiIxNTIuMjI4LjIxNy4zNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IjE1Mi4yMjguMjE3LjM0IiwiaWQiOiIxMzkyYzE3YS0zNzg3LTQxNDQtYWVjOS03NGNlNmY1MDY4MmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IvCfh6vwn4e3IEBwcnJvZmlsZV9wdXJwbGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+
+vmess 🇫🇷
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI1MS4xNTkuMi4xNTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiI1MS4xNTkuMi4xNTIiLCJpZCI6IjQzNTg3ZGMxLTM0ZjEtNDI1NC1hYjkwLTU2NTA3ZTcyZDdhOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfh6vwn4e3IEBwcnJvZmlsZV9wdXJwbGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+
+vmess 🇫🇷
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI2NS4xMDkuMTYyLjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6ogQHBycm9maWxlX3B1cnBsZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+
+vmess 🇩🇪
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI2NS4xMDkuMTQzLjk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hq/Cfh64gQHBycm9maWxlX3B1cnBsZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+
+vmess 🇫🇮
+
+@prrofile_purple
+
+trojan://011eb011-c68e-4f92-80eb-f9bbef707bef@us2.trojanvh.xyz:80?security=tls&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%A9+%40prrofile_purple
+
+
+trojan 🇮🇩
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiJ4cmF5LnRhd2FuYWNsdWIudGsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjA3ODE4MWI3LTlhOWYtNDg0Mi1mZDVkLTczN2JlMjU4MjNiNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvdGF3YW5hcHJveHkyIiwicG9ydCI6IjQxODkwIiwicHMiOiLwn4ez8J+HsSBAcHJyb2ZpbGVfcHVycGxlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+
+vmess 🇳🇱
+
+ 
+@prrofile_purple
+
+vmess://eyJhZGQiOiJzZWEuY2FzcGlhbi5jZiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiZjMwNzJjMzQtMDhmZC00MjJhLWFmZDMtZWMzZjY5M2NiZGY5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUzIiwicHMiOiLwn4er8J+HtyBAcHJyb2ZpbGVfcHVycGxlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+
+vmess 🇫🇷
+
+@prrofile_purple
+
+vless://5c3734b9-2406-4514-8626-5608a1f5c774@89.163.246.92:32195?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+%40prrofile_purple
+
+
+vmess 🇩🇪
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI2NS4xMDkuMTY2LjUyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e48J+HqiBAcHJyb2ZpbGVfcHVycGxlIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+
+
+vmess 🇸🇪
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI1MS4xNTkuMi4xNTIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYTJlY2NlNDMtYzZmYi00OTc4LThiMWQtODAxOGRkZDlmYWY0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiLwn4er8J+HtyBAcHJyb2ZpbGVfcHVycGxlIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+
+
+vmess 🇫🇷
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiIzNy4xNTIuMTg3LjEwOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiODYzMzZlMTItYWMwNi00NjA0LTgzODktNDYxNDg1YTg0NWFlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoi8J+HrvCfh7cgQHBycm9maWxlX3B1cnBsZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+
+vmess 🇮🇷
+
+@prrofile_purple
+
+trojan://q9870219@181.214.99.54:2035?security=tls&headerType=none&type=tcp&sni=ht.lljllj.buzz#%F0%9F%87%A9%F0%9F%87%AA+%40prrofile_purple
+
+
+Trojan 🇩🇪
+
+@prrofile_purple
