@@ -507,3 +507,32 @@ vmess://eyJhZGQiOiI2NS4xMDkuMTMwLjE1NCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI3YzIy
 vmess 🇫🇮
 
 @prrofile_purple
+موتور جستجوی سرور v2ray:
+vmess://eyJhZGQiOiIxNjguMTE5LjI1MC43NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNmI3Y2JjNDEtZmI4MC00MWE4LThlYjYtYjViZGIwZTg2MTQ3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqIEBwcnJvZmlsZV9wdXJwbGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+
+vmess 🇩🇪
+
+@prrofile_purple
+
+trojan://2959e4f7-7589-4a40-9b96-1be750ac7845@51.83.186.142:80?security=tls&headerType=none&type=tcp&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1+%40prrofile_purple
+
+
+Trojan 🇵🇱
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiIxMDguNjEuMTYzLjIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiMTA4LjYxLjE2My4yMCIsImlkIjoiN2ZlZjFkNjctYjQ1MS00NTI5LTkzMjgtOGYxMmMyODdlMjE2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuPCfh6ogQHBycm9maWxlX3B1cnBsZSIsInNjeSI6ImF1dG8iLCJzbmkiOiJnb29nbGUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+
+vmess 🇸🇪
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI2NS4xMDkuMTM2LjIzMCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhYTA4ODYyYi01NDZiLTQwZTYtZWRjYy04ZDMwMzYyN2JkNjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NDYwNiIsInBzIjoi8J+Hq/Cfh64gQHBycm9maWxlX3B1cnBsZSIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+
+
+vmess 🇫🇮
+
+@prrofile_purple
