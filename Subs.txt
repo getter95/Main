@@ -390,3 +390,18 @@ trojan://DdBLoQKViK1pK5-0gJPNcM-00BPCj7Eaxm3poKYLV9PuPYfh@kebdub.ml:449?security
 Tro 🇫🇷
 
 @prrofile_purple
+
+موتور جستجوی سرور v2ray:
+vmess://eyJhZGQiOiIxNjIuNTUuMTc0LjEzNSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI0ZDlhYTZkYi03MDVhLTRiZmEtYjA1Yi04ZjQ0MmM4Mzk1NTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCIsInBvcnQiOiI4MCIsInBzIjoi8J+HqfCfh6ogQHBycm9maWxlX3B1cnBsZSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+
+vmess 🇩🇪
+
+@prrofile_purple
+
+trojan://89d81c5f-3d75-42f7-8a23-1be9ac89f3fb@149.56.132.41:80?sni=ca1.trojanvh.xyz#%F0%9F%87%A8%F0%9F%87%A6+%40prrofile_purple
+
+
+Tro 🇨🇦
+
+@prrofile_purple
