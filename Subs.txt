@@ -468,3 +468,179 @@ vmess://eyJhZGQiOiJhcmEtMDBkLmNsaWNrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiYXJh
 نرم افزار مورد نیاز اجرای سرور
 
 @prrofile_purple
+
+موتور جستجوی سرور v2ray:
+vmess://eyJhZGQiOiIxMy45My4yNC4xMDYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6Ijg4OGQyNzhmLTJjNzQtNGU1Mi1jOGQ5LWZkZGFkNmM3ZDZmYyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjQwMTI2IiwicHMiOiJAcHJyb2ZpbGVfcHVycGxl8J+Hs/Cfh7EiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+
+🇳🇱
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+vless://2d384ba7-7cc9-4060-9b0b-89f0f9e92c7d@sportnewsforfifawc2022.site:2003?mode=gun&security=tls&encryption=none&type=grpc&serviceName=ZV1FCHR&sni=sportnewsforfifawc2022.site#%40prrofile_purple%F0%9F%87%A9%F0%9F%87%AA
+
+🇩🇪
+
+v2ray
+
+@prrofile_purple
+
+trojan://TM2slNFY9N@deviceosfree.ml:12228?security=xtls&headerType=none&type=tcp&flow=xtls-rprx-direct#%40prrofile_purple%F0%9F%87%B3%F0%9F%87%B1
+
+🇳🇱
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+trojan://GddRFhVn5LF8bnG6KFL1OECVZeo8pdClI5JmghtD1EqeLHQk@xivpn.site:4435?security=tls&headerType=none&type=tcp&sni=XIVPN.site#%40prrofile_purple%F0%9F%87%A6%F0%9F%87%BA
+
+🇦🇺
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+trojan://GddRFhVn5LF8bnG6KFL1OECVZeo8pdClI5JmghtD1EqeLHQk@xivpn.site:4435?security=tls&headerType=none&type=tcp&sni=XIVPN.site#%40prrofile_purple%F0%9F%87%A9%F0%9F%87%AA
+
+🇩🇪
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+trojan://9KogHwaY7hVD@eu-east-ruo.openssl3.com:443?security=tls&headerType=none&type=tcp&sni=eu-east-ruo.openssl3.com#%40prrofile_purple%F0%9F%87%B7%F0%9F%87%BAAdsl
+
+🇷🇺Adsl
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+trojan://1672752854@jump.bungeejumpingistanbul.com:443?security=tls&headerType=none&type=tcp&sni=jump.bungeejumpingistanbul.com#%40prrofile_purple%F0%9F%87%AA%F0%9F%87%AAAdsl
+
+
+🇪🇪Adsl
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+trojan://GddRFhVn5LF8bnG6KFL1OECVZeo8pdClI5JmghtD1EqeLHQk@xivpn.site:4435?security=tls&headerType=none&type=tcp&sni=XIVPN.site#%40prrofile_purple%F0%9F%87%AB%F0%9F%87%B7MTN%2BAdsl%2BMCI
+
+
+🇫🇷MTN.ADSL.MCI
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+trojan://55e51cd3-cf98-4cb3-aaab-a72044437df3@141.95.61.209:1145/?type=tcp&security=tls&sni=mci.ir&allowInsecure=1#%40prrofile_purple%F0%9F%87%BA%F0%9F%87%B2MTN
+
+🇺🇲MTN
+
+نرم افزار مورد نیاز اجرای سرور
+
+
+@prrofile_purple
+
+vless://427688d1-ed49-43ce-da9f-fe6584e4f92c@alw3.alwaysnetwork.tk:25576?security=tls&encryption=none&headerType=none&type=tcp&sni=alw3.alwaysnetwork.tk#%40prrofile_purple%F0%9F%87%A9%F0%9F%87%AAMTN.ADSL.MCI
+
+
+🇩🇪MTN.ADSL.MCI
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiIxOTMuNzAuODUuMTkxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiSXJhbmNlbGwuaXIiLCJpZCI6ImVkNTc5Njg3LTUxNzEtNDZhZC1hODlhLWJkMDZhZjUyNzA1ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiQHBycm9maWxlX3B1cnBsZfCfh6vwn4e3QURTTCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+🇫🇷ADSL
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiIxNjcuMjM1LjE5Ny45IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJlYWY4NjNiYy05MzhjLTQyNmQtODczZi1jMmFjMDRhYTgxMjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0MjM0MSIsInBzIjoiQHBycm9maWxlX3B1cnBsZfCfh6nwn4eqTVROLkFEU0wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+🇩🇪MTN.ADSL
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI1Ljc1LjIzOC4xNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6ImQ1ZWU1ZGJhLTllZmUtNDNjZS04OWU2LWVmYzBlZTQxYThlNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQwNDM5IiwicHMiOiJAcHJyb2ZpbGVfcHVycGxl8J+HqfCfh6pNVE4uQURTTCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+🇩🇪MTN.ADSL
+
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI1Ljc1LjIzMi4xODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjQ5NjkzZjY3LTdiZWQtNDBiNC05Y2Q4LTkwNGQyZmU0OWVmNiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJAcHJyb2ZpbGVfcHVycGxl8J+HqPCfh6ZNVE4uQURTTC5NQ0kiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+🇨🇦MTN.ADSL.MCI
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiJrYW5hbC50ZWxsLWpva2FyZG9iYW5kLnNwYWNlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJjNjYyNDY4OC0xYjJhLTQ5MWMtYWFiZS0yMzlmYmMwZmEyZTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNzU5NCIsInBzIjoiQHBycm9maWxlX3B1cnBsZfCfh7Pwn4exTVROIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+🇳🇱MTN
+
+نرم افزار مورد نیاز اجرای سرور
+
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI1Ljc1LjIzMi4xODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjQ5NjkzZjY3LTdiZWQtNDBiNC05Y2Q4LTkwNGQyZmU0OWVmNiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJAcHJyb2ZpbGVfcHVycGxl8J+Hq/Cfh65BRFNMLk1UTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+🇫🇮ADSL.MTN.MCI
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI2NS4xMDkuMTg2LjE0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNmI3Y2JjNDEtZmI4MC00MWE4LThlYjYtYjViZGIwZTg2MTQ3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAcHJyb2ZpbGVfcHVycGxlIPCfh6vwn4e3TVROLkFEU0wuTUNJIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+🇫🇷MTN.ADSL.MCI
+
+نرم افزار مورد نیاز اجرای سرور
+
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI2NS4xMDkuMTg2LjEzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNmI3Y2JjNDEtZmI4MC00MWE4LThlYjYtYjViZGIwZTg2MTQ3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAcHJyb2ZpbGVfcHVycGxl8J+Hq/Cfh65BRFNMLk1UTi5NQ0kiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+🇫🇮ADSL.MTN.MCI
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiJrYW5hbC50ZWxsLWpva2FyZG9iYW5kLnNwYWNlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJjNjYyNDY4OC0xYjJhLTQ5MWMtYWFiZS0yMzlmYmMwZmEyZTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNzU5NCIsInBzIjoiQHBycm9maWxlX3B1cnBsZfCfh6nwn4eqTVROIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+🇩🇪MTN
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI2NS4xMDkuMTg2LjE0MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNmI3Y2JjNDEtZmI4MC00MWE4LThlYjYtYjViZGIwZTg2MTQ3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAcHJyb2ZpbGVfcHVycGxl8J+HqfCfh6pNVE4uQURTTE1DSSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+
+🇩🇪MTN.MCI.ADSL
+
+نرم افزار مورد نیاز اجرای سرور
+
+@prrofile_purple
+
+vmess://eyJhZGQiOiI1Ljc1LjIzOC4xNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjE3ZTdiZWIyLTM0OGQtNGY5Yi1mNWE5LWNmZmIwNmM2OTU5OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU2NjA5IiwicHMiOiJAcHJyb2ZpbGVfcHVycGxl8J+HrPCfh6dNVE4uQURTTC5NQ0kiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+🇬🇧MCI.MTN.ADSL
+
+نرم افزار مورد نیاز اجرای سرور
+
+
+@prrofile_purple
