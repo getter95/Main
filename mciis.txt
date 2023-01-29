@@ -7,3 +7,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozY2Y0MmNmMy0wMDYzLTRiYjUtOTdkNi1lZjhkZmRjYWU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTBkODAwMC0yYzZjLTRmMTYtODllMy00ZTE4NTQ3ZTAxYzg=@146.19.196.197:8388#sshocean-sg2.xvless.xyz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZWQxMzM5Yy1kY2JiLTRiZjAtOWFlOC0yM2NiOGRiNGFmN2U=@146.19.196.177:8388#sshocean-sg1.xvless.xyz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTdkNGNiMC04ZGU3LTRmM2ItYmIwYi0zOGUxMTRiYzJhNzc=@45.32.11.55:8388#sshocean-jp1.xvless.xyz
+trojan://920a691f-242b-43e4-99f6-d8978bed63c7@155.138.159.99:443?path=%2Ftrojan&security=tls&host=download.ir&type=ws&sni=download.ir#sshocean-ca1.xvless.xyz
