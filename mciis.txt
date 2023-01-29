@@ -1,5 +1,5 @@
 vmess://eyJhZGQiOiIxOTUuMTIzLjIxOC45NCIsImFpZCI6IjE2IiwiYWxwbiI6IiIsImhvc3QiOiJkb2xhdC5pciIsImlkIjoiYTQwZDM0YzYtYjc3Yy00NjQ4LTkyMTAtM2U4ZDJmNDIyNmI1IiwibmV0Ijoid3MiLCJwYXRoIjoiL29wZW50dW5uZWw/dXNlclx1MDAzZG9wZW50dW5uZWwubmV0LW5lanhoZGtiIiwicG9ydCI6IjgwIiwicHMiOiJvcGVudHVubmVsLm5ldC1ubHYxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-
+trojan://a2550a73-ea40-4703-adb3-56425a482155@137.184.146.99:443?security=tls&headerType=none&type=tcp&sni=download.ir#trojan-tcpusa
 trojan://jagoanssh-ndndnxjxn@199.195.250.59:443?security=tls&headerType=none&type=tcp&sni=dolat.ir#uatroj
 vless://77671b95-9a28-476d-927d-66e93cf8d8fb@137.184.146.99:443?security=tls&encryption=none&headerType=none&type=tcp&sni=download.ir#vless-tcp-tlsusa
