@@ -20,3 +20,5 @@ vless://5ba2a9d0-ad6d-11ed-a2a4-1239d0255272@178.239.197.97:443?mode=gun&securit
 vmess://eyJhZGQiOiI5MS4yMDcuMTgzLjgyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJiOTE4MzdlMC1hZDZkLTExZWQtYjU0My0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJncnBjIiwicGF0aCI6InZtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IlJVK1ZNRVNTLWdSUEMgKDIwMjMtMDItMjMpIiwic2N5Ijoibm9uZSIsInNuaSI6InNvZnQ5OC5pciIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 trojan://ee606be0-ad6d-11ed-bca0-1239d0255272@15.235.197.24:443?mode=gun&security=tls&type=grpc&serviceName=trgrpc&sni=soft98.ir#SG+Trojan-gRPC%282023-02-23%29
 trojan://29bd3f20-ad6e-11ed-ba0b-1239d0255272@179.61.251.39:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#DE+Trojan-TCP%282023-02-23%29
+vless://1b6ef1a0-ad70-11ed-9bee-1239d0255272@91.207.183.82:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=soft98.ir#RU+Vless-gRPC%282023-02-23%29
+vless://92cfe090-ad70-11ed-98ff-1239d0255272@15.235.197.24:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=soft98.ir#SG+Vless-gRPC%282023-02-23%29
