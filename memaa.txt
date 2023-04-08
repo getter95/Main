@@ -1,1 +1,13 @@
-xjjdjd
+trojan://ca00bde0-d585-11ed-a81a-1239d0255272@sg-2.test3.net:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#
+trojan://960e0d40-d586-11ed-b401-1239d0255272@tr.test3.net:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#
+trojan://708b6710-d586-11ed-86c6-1239d0255272@us-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#
+trojan://90315140-d586-11ed-bda3-1239d0255272@sg6-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#
+trojan://f5eb8200-d585-11ed-8e80-1239d0255272@uk.test3.net:443?security=tls&headerType=none&type=tcp&sni=download.ir#
+trojan://04ce53d0-d586-11ed-824f-1239d0255272@de-1.test3.net:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#
+trojan://28a1db10-d586-11ed-b634-205c6d5f5d78@asia1.oceis.net:443?mode=gun&security=tls&type=grpc&serviceName=trgrpc&sni=soft98.ir#ASIA+Trojan-gRPC%282023-04-15%29
+trojan://ce9e60d0-d586-11ed-b238-205c6d5f5d78@us3.oceis.net:443?path=%2Ftrojanws&security=tls&type=ws&sni=download.ir#USA+Trojan-WS%282023-04-15%29
+vless://f4ef3f30-d586-11ed-b130-205c6d5f5d78@us2.oceis.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=soft98.ir#USA+Vless-gRPC%282023-04-15%29
+trojan://mainssh-dbsjsjhddj@ustcp.mainssh.xyz:443?security=tls&type=tcp#
+trojan://mainssh-bdjdjdjd@uktcp.mainssh.xyz:443?security=tls&type=tcp#
+trojan://mainssh-nsmsskmd@idtcp.mainssh.xyz:443?security=tls&type=tcp#
+trojan://mainssh-bsnsndjdn@ustws.mainssh.xyz:443?path=%2Ftrojan&security=tls&host=ustws.mainssh.xyz&type=ws&sni=ustws.mainssh.xyz#
