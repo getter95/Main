@@ -7,7 +7,7 @@ trojan://04ce53d0-d586-11ed-824f-1239d0255272@de-1.test3.net:443?security=tls&he
 trojan://28a1db10-d586-11ed-b634-205c6d5f5d78@asia1.oceis.net:443?mode=gun&security=tls&type=grpc&serviceName=trgrpc&sni=soft98.ir#ASIA+Trojan-gRPC%282023-04-15%29
 trojan://ce9e60d0-d586-11ed-b238-205c6d5f5d78@us3.oceis.net:443?path=%2Ftrojanws&security=tls&type=ws&sni=download.ir#USA+Trojan-WS%282023-04-15%29
 vless://f4ef3f30-d586-11ed-b130-205c6d5f5d78@us2.oceis.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=soft98.ir#USA+Vless-gRPC%282023-04-15%29
-trojan://mainssh-dbsjsjhddj@ustcp.mainssh.xyz:443?security=tls&type=tcp#
-trojan://mainssh-bdjdjdjd@uktcp.mainssh.xyz:443?security=tls&type=tcp#
-trojan://mainssh-nsmsskmd@idtcp.mainssh.xyz:443?security=tls&type=tcp#
+trojan://mainssh-dbsjsjhddj@ustcp.mainssh.xyz:443?security=tls&headerType=none&type=tcp#
+trojan://mainssh-bdjdjdjd@uktcp.mainssh.xyz:443?security=tls&headerType=none&type=tcp#
+trojan://mainssh-nsmsskmd@idtcp.mainssh.xyz:443?security=tls&headerType=none&type=tcp#
 trojan://mainssh-bsnsndjdn@ustws.mainssh.xyz:443?path=%2Ftrojan&security=tls&host=ustws.mainssh.xyz&type=ws&sni=ustws.mainssh.xyz#
