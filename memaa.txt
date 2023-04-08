@@ -11,3 +11,9 @@ trojan://mainssh-dbsjsjhddj@ustcp.mainssh.xyz:443?security=tls&headerType=none&t
 trojan://mainssh-bdjdjdjd@uktcp.mainssh.xyz:443?security=tls&headerType=none&type=tcp#
 trojan://mainssh-nsmsskmd@idtcp.mainssh.xyz:443?security=tls&headerType=none&type=tcp#
 trojan://mainssh-bsnsndjdn@ustws.mainssh.xyz:443?path=%2Ftrojan&security=tls&host=ustws.mainssh.xyz&type=ws&sni=ustws.mainssh.xyz#
+vless://7518b180-d654-11ed-b332-205c6d5f5d78@asia1.oceis.net:443?path=%2Fvltc&security=tls&encryption=none&headerType=http&type=tcp&sni=download.ir#ASIA+Vless-TCP(2023-04-16)
+vmess://eyJhZGQiOiJ1czMub2NlaXMubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgwNDU1NjMwLWQ2NTQtMTFlZC1iMzM1LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bXdzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNBK1ZNRVNTLVdTKDIwMjMtMDQtMTYpIiwic2N5Ijoibm9uZSIsInNuaSI6ImRvd25sb2FkLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vless://b77b4b10-d654-11ed-b631-205c6d5f5d78@us2.oceis.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=download.ir#USA+Vless-gRPC(2023-04-16)
+
+
