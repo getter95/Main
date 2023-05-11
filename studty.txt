@@ -1,0 +1,71 @@
+
+Here is Original modis IR accuracy before training agurithms:
+
+RMSE Original: 4.48
+R Original: 0.77
+Bias Original: -0.5303025906735757
+STD Original: 4.451524150889432
+
+Night Metrics:
+         City  RMSE  Bias   Std  R_Pearson  mean PWV
+0      Tehran  4.99 -1.68  4.70       0.82     13.16
+1      Tabriz  4.48 -1.88  4.06       0.80     13.05
+2     Mashhad  4.83 -0.10  4.83       0.78     13.34
+3     Zahedan  4.80  1.08  4.68       0.69      9.61
+4      Shiraz  5.27  1.33  5.10       0.79     10.54
+5     Esfahan  5.06  0.45  5.04       0.72     10.29
+6  Kermanshah  4.86 -2.03  4.41       0.72     11.41
+Day Metrics:
+      City  RMSE  Bias   Std  R_Pearson  mean PWV
+0   Kerman  3.14  0.37  3.12       0.83      8.93
+1    Ahwaz  4.66 -2.28  4.07       0.80     17.58
+2  Birjand  3.54  0.12  3.53       0.77      9.80
+3   Tehran  3.57 -1.44  3.27       0.83     13.39
+
+
+And here is MLP Results:
+
+
+RMSE modified: 3.0475723013595073
+R modified: 0.8504835270414917
+Bias modified: 0.005233015521860552
+STD modified: 3.0475678085257165
+
+Night Metrics:
+         City  RMSE  Bias   Std  R_Pearson
+0      Tehran  2.97 -0.25  2.96       0.86
+1      Tabriz  3.21 -0.10  3.21       0.83
+2     Mashhad  3.71 -0.03  3.71       0.79
+3     Zahedan  3.07 -0.04  3.07       0.74
+4      Shiraz  3.15  0.29  3.14       0.78
+5     Esfahan  2.95  0.17  2.94       0.77
+6  Kermanshah  3.16  0.07  3.16       0.71
+Day Metrics:
+      City  RMSE  Bias   Std  R_Pearson
+0   Kerman  2.36  0.01  2.36       0.84
+1  Birjand  2.43  0.09  2.42       0.84
+2   Tehran  2.40 -0.04  2.40       0.89
+3    Ahwaz  3.50  0.15  3.50       0.83
+
+RF Results:
+
+RMSE modified: 3.1004460129827938
+R modified: 0.8446266828044927
+Bias modified: 0.05302356819290974
+STD modified: 3.0999925775132127
+
+Night Metrics:
+         City  RMSE  Bias   Std  R_Pearson
+0      Tehran  3.12  0.06  3.12       0.84
+1      Tabriz  3.20 -0.14  3.20       0.83
+2     Mashhad  3.82  0.02  3.82       0.77
+3     Zahedan  3.11  0.17  3.11       0.73
+4      Shiraz  3.10 -0.08  3.10       0.78
+5     Esfahan  2.95 -0.03  2.95       0.77
+6  Kermanshah  3.10  0.20  3.10       0.72
+Day Metrics:
+      City  RMSE  Bias   Std  R_Pearson
+0   Kerman  2.37  0.27  2.36       0.84
+1  Birjand  2.59  0.09  2.59       0.81
+2   Tehran  2.68  0.38  2.65       0.87
+3    Ahwaz  3.53 -0.11  3.52       0.83
