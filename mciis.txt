@@ -2,5 +2,5 @@ sn://ssh?eNpjYGBgMLQ01jMyNtYzsdQztNwqBhQpys__wgikUy2LzSrTqoJdPCwMNzaCRPJSy4uLMyy
 
 vless://09cccafd-3698-4a02-aa39-385e46fc56ba@hashem.ashkan.sorenayevali.ir:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=uni2phish.ru&fp=chrome&security=reality&pbk=XKpGEtD80Qhk6BfXnswmE8brO7Uh-xSkUnyWu0g3IwY&sid=928e9188c6370071#SING-BOX-TCP
 
-vless://b3134ce6-3f10-4194-8f89-3a3662d63aef@de2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=grpc&mode=gun#vless-gRPC
+vless://a1a27691-7688-4aa7-8dc0-8ca565a5bafd@nl-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=grpc&mode=gun#vless-gRPC
 
