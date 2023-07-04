@@ -2,5 +2,7 @@ sn://ssh?eNpjYGBgMLQ01jMyNtYzsdQztNwqBhQpys__wgikUy2LzSrTqoJdPCwMNzaCRPJSy4uLMyy
 
 vless://09cccafd-3698-4a02-aa39-385e46fc56ba@hashem.ashkan.sorenayevali.ir:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=uni2phish.ru&fp=chrome&security=reality&pbk=XKpGEtD80Qhk6BfXnswmE8brO7Uh-xSkUnyWu0g3IwY&sid=928e9188c6370071#SING-BOX-TCP
 
-vless://9c61cbf5-a49e-4c98-aa6a-9d6ee23d7e8a@us2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=grpc&mode=gun#vless-gRPC
 
+vmess://eyJhZGQiOiI0NS45MC4yMTguMTU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiJiYzA2ODE5YS05OGQ4LTQ2NDItYTFjYi04MTQ3ODk3Njc3YTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IvCfmoAgTWFyeiAobmlhKSBbVk1lc3MgLSB3c10iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMU9vUE14NVdfOGFHVVFaWm04TWJn@45.90.218.156:1080#%F0%9F%9A%80%2BMarz%2B%28nia%29%2B%5BShadowsocks%2B-%2Btcp%5D
