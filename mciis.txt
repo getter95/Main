@@ -6,3 +6,5 @@ vmess://eyJhZGQiOiI0NS45MC4yMTguMTU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMU9vUE14NVdfOGFHVVFaWm04TWJn@45.90.218.156:1080#%F0%9F%9A%80%2BMarz%2B%28nia%29%2B%5BShadowsocks%2B-%2Btcp%5D
 
 vless://0c229870-25d1-4f6a-aa4b-cef96d1735d6@95.181.230.247:443?security=reality&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=grpc&flow=&sni=zula.ir&pbk=AaMcwsTQpj7qQZLggDhkyx4ZjOdTNy6OEx1CajOQcTg&sid=665996797e55ce8f&mode=gun&serviceName=c3eedc21#mom
+
+vless://26ea55a6-5e96-4c78-a8c3-00c88f033e94@185.189.13.64:443/?type=grpc&encryption=none&flow=&serviceName=0b94c955&sni=zula.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=QkCg1uDErvIMapy9G-3lC-mH7LzyQosWghFxXexi5mI&sid=0a2d717e04ff1207#iirr
