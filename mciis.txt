@@ -1,3 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1S0RCbWIyVERGQ21rWEc5N3k2MW1n@185.189.12.64:1080#%F0%9F%9A%80+Marz+%28fam%29+%5BShadowsocks+-+tcp%5D
+
+vless://81ab2bf0-35db-4973-886e-ef32a46e72de@185.189.12.64:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=cdn.discordapp.com#%F0%9F%9A%80+Marz+%28fam%29+%5BVLESS+-+tcp%5D
+
+vmess://eyJhZGQiOiIxODUuMTg5LjEyLjY0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiIwZGVlMmZmZS1kOWQzLTQ3YzctOGI4ZS04OTBhZTI1OTA5ZDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgxIiwicHMiOiLwn5qAIE1hcnogKGZhbSkgW1ZNZXNzIC0gdGNwXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+----_-----------+++++++------------
 vless://4e030050-6f40-4096-a20a-b8020d29ec85@91.107.246.182:52237/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#%40ServerNett%20%7C%20DE%F0%9F%87%A9%F0%9F%87%AA%20%7C%20mci-join.servernett.cfd%3A52237%20%7C%20518.72ms%20%7C%20%F0%9F%98%9C
 vless://1af30924-c56b-4c31-89ec-4ff0f21a0fbb@172.232.46.205:40495/?type=grpc&encryption=none&serviceName=%40frev2ray%40frev2ray%40frev2ray&sni=www.speedtest.net&fp=chrome&security=reality&pbk=H5Am2YnJMePc5HvaGJ3LmOwHCHN46vbbr3RDuEEZJl8&sid=13ffd017#REALITY%20%7C%20%40ConfigsHUB%20%7C%20FR%F0%9F%87%AB%F0%9F%87%B7%20%7C%20miox.putak.sbs%3A40495%20%7C%20211.51ms%20%7C%20%F0%9F%90%9F
 vless://8856a4bd-ebee-419a-8dbf-437120f43c54@51.89.118.72:8443/?type=grpc&encryption=none&serviceName=Telegram%3A%40Helix_Servers-Telegram%3A%40Helix_Servers-Telegram%3A%40Helix_Servers-Telegram%3A%40Helix_Servers-Telegram%3A%40Helix_Servers-Telegram%3A%40Helix_Servers-Telegram%3A%40Helix_Servers&sni=cdn.accuweather.com&fp=chrome&security=reality&pbk=i0vV3Vbwl0l3ByNbksUhM_VzkNZjnjdgnLuK1i8qADg&sid=1a7de21a#REALITY%20%7C%20%40Helix_Servers%20%7C%20GB%F0%9F%87%AC%F0%9F%87%A7%20%7C%20realitygermany.h3lixchannel.fun%3A8443%20%7C%20173.69ms%20%7C%20%F0%9F%98%82
