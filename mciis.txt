@@ -1,8 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1S0RCbWIyVERGQ21rWEc5N3k2MW1n@185.189.12.64:1080#%F0%9F%9A%80+Marz+%28fam%29+%5BShadowsocks+-+tcp%5D
+vless://719e3a43-3f44-4fc6-b77e-32eae5e71a0e@185.189.12.64:443/?type=grpc&encryption=none&serviceName=9f1d5382&sni=www.zula.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=yFH3A_F2mUnuibz6RnN8c9UyM2TNS6VhMJ7Fkogcr0g&sid=7e11559be4f282e9#mom
 
-vless://81ab2bf0-35db-4973-886e-ef32a46e72de@185.189.12.64:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=cdn.discordapp.com#%F0%9F%9A%80+Marz+%28fam%29+%5BVLESS+-+tcp%5D
-
-vmess://eyJhZGQiOiIxODUuMTg5LjEyLjY0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiIwZGVlMmZmZS1kOWQzLTQ3YzctOGI4ZS04OTBhZTI1OTA5ZDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgxIiwicHMiOiLwn5qAIE1hcnogKGZhbSkgW1ZNZXNzIC0gdGNwXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://5c53f84b-07e2-4dbb-bb92-57d95834ba92@185.189.12.64:443/?type=grpc&encryption=none&serviceName=9f1d5382&sni=www.zula.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=yFH3A_F2mUnuibz6RnN8c9UyM2TNS6VhMJ7Fkogcr0g&sid=7e11559be4f282e9#dad
 
 sn://ssh?eNpjYGBgMLQw1TO0sABiYz2T7WJAkaL8_C-MQLq82KCoxMLUKMI8ZFsjSKCxsREAAfIL6Q
 ----+++---
