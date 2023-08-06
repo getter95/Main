@@ -10,3 +10,7 @@ sn://ssh?eNpjYGBgSE8y1CsuzjA20Cv9_JSZgQHILi7JL0ot1s0ozs4qKy4r_soIVFacmZlalppVXPa
 
 
 sn://ssh?eNpjYGBgSE8y0isuzjA20Cv9fJadgQHILi7JL0ot1k0qLk7JSnnFCFTklZWampH6ohHEnoRQAdT7dsGet9vXgMnljY0ATqwgUQ
+
+sn://ssh?eNpjYGBgSE400isuzjA20Cv9LAbkA9nFJflFqcW6WcWZxaXFWZ8ZgaJVSSBm8YtGEKexsREA-UYSnQ
+
+sn://ssh?eNpjYGBgSE401CsuzjA20Cv9_JSZgQHILi7JL0ot1q3IyEh5wQhUkpqfmZqR-qgRxG5sbAQAw-kRWQ
