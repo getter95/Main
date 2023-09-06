@@ -1,1 +1,3 @@
 vless://7d07cdac-5a4a-43d4-b6d4-7b0c646ba624@95.181.230.105:443/?type=grpc&encryption=none&serviceName=65474e55&sni=zula.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&security=reality&pbk=lNQ9qp_U3rFJYGv15PVFoZHpgyiRtlt1Uh51sDe7dGc&sid=4983a3669732ab38#RealityEZPZ
+
+vless://083b8338-5a19-46c7-a312-4899603f7530@95.181.230.203:443/?type=grpc&encryption=none&flow=&serviceName=7233b853&sni=www.zula.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=xOH_dx4PxY1zWpQT8izIxFE0uJa3OZrDqtwET8hOpBw&sid=1a49ecde18a65aea#RealityEZPZ2
