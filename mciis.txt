@@ -1,2 +1,1 @@
-vless://45244de0-cda4-11ee-8f56-1239d0255272@us1.socifiles.com:443?path=%2Fvlws&security=tls&encryption=none&type=ws&sni=zula.ir#US
-+Vless-WS(2024-02-24)
+
