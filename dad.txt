@@ -1,1 +1,1 @@
-
+vless://6d48970d-193e-4bc8-9a99-c080384c096d@bazar.ir:443?path=%2Fvless&security=tls&encryption=none&host=cz2-vless.sshmax.xyz&sni=cz2-vless.sshmax.xyz&type=ws#sshmax-jdjdnmndjjd
