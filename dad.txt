@@ -1,1 +1,4 @@
 vless://033d3e24-1feb-4168-b5da-a014c68c57e3@bazar.ir:443?path=%2Fvless&security=tls&encryption=none&host=be1.v2vless.xyz&sni=be1.v2vless.xyz&type=ws#sshocean-belgiuohv🇧🇪
+
+
+vless://2e45b64a-6dc0-4b21-9e29-ada3ea128763@google.com:443?path=%2Fgevless.ipservers.xyz%2Fjagoanssh&security=tls&encryption=none&host=gevless.ipservers.xyz&type=ws&sni=gevless.ipservers.xyz&fp=random&alpn=h2%2Chttp%2F1.1#jagoanssh-ndndndbdn
