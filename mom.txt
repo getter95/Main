@@ -1,2 +1,1 @@
-vless://4784b699-4adb-4ac2-9ac1-668c543e297e@bazar.ir:443?path=%2Fvless&security=tls&encryption=none&host=cz2-vless.sshmax.xyz&sni=cz2-vless.sshmax.xyz&type=ws#sshmax-czechbj🇨🇿🇨🇿
-vless://5d81acdb-ad77-4c91-95fb-4ffd6f9b34fc@bazar.ir:443?path=%2Fvless&security=tls&encryption=none&host=be1.v2vless.xyz&sni=be1.v2vless.xyz&type=ws#sshocean-belgiumohv🇧🇪
+vless://3fa658b2-c94b-45e0-ad84-e8239371ae24@bazar.ir:443?path=%2Fvless&security=tls&encryption=none&host=cz2-vless.sshmax.xyz&sni=cz2-vless.sshmax.xyz&type=ws#sshmax-cjejdjbj🇨🇿
