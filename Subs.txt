@@ -1,4 +1,4 @@
 vless://decb39a6-0516-5116-8a32-94c24248b59f@geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=geodesyse.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7arvan+sshmax-uk1-ws
-vless://fc743f8e-5d22-483d-89c8-1164e9813494@maskregtwo.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=maskregtwo.geodesyse.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AAarvan+sshmax-de2-ws
+vless://6872c5d8-897c-495f-b10f-cd627204e2bd@maskregtwo.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=maskregtwo.geodesyse.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AAarvan+sshmax-de2-ws
 vless://fc743f8e-5d22-483d-89c8-1164e9813494@greenkuone.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=greenkuone.geodesyse.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7arvan+greenssh-uk1-ws
 vless://5d659adb-2ef4-4df8-8c2c-fadb45a55fe9@greenatone.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=greenatone.geodesyse.ir&type=ws&sni=greenatone.geodesyse.ir#%F0%9F%87%A6%F0%9F%87%B9arvan+greenssh-at1-ws
