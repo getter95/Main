@@ -6,4 +6,4 @@ vless://62d2e8a4-51c8-5c77-869e-e07d6e43e6be@geodesyse.ir:80?path=%2Fvless&secur
 vless://c961db01-42f5-47ee-8760-3670ff2ee143@maskregtwo.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=maskregtwo.geodesyse.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AAarvan+sshocean-de3-ws
 vless://8884311f-bfab-4f59-997e-e948e782f268@greenkuone.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=greenkuone.geodesyse.ir&type=ws#🇮🇸arvan-vpnhack-icland-ws
 vless://3ac45433-ec35-4dc6-9d72-7c786f782769@greenatone.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=greenatone.geodesyse.ir&type=ws#%F0%9F%87%A6%F0%9F%87%B9arvan+greenssh-at1-ws
-vless://b40edbd6-c951-40a4-a951-2f5ac9314fac@fastly.com:80?encryption=none&security=none&sni=de1-vless.ctunnel.xyz&type=ws&host=lastridingmc.com&path=%2Fvless#cybertunnel-bsnsjsbdb-ws
+vless://b40edbd6-c951-40a4-a951-2f5ac9314fac@seminarsinmcb.faculty.ucdavis.edu:80?path=%2Fvless&security=none&encryption=none&host=lastridingmc.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAfastly-cybertunnel-ws
