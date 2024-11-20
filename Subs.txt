@@ -1,4 +1,4 @@
-vless://f9dd5a73-2dac-5c88-ad78-c1329b92ab21@geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=geodesyse.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7arvan+sshmax-uk1-ws
+vless://f75df6e2-5b4d-56ac-ae3f-a21907491694@geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=geodesyse.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7arvan+sshmax-uk1-ws
 vless://eeb98ccb-aa8a-4d3f-8949-832feada78f3@maskregtwo.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=maskregtwo.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan+vpnhack-vless-nl1-ws
 vless://3ac45433-ec35-4dc6-9d72-7c786f782769@greenatone.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=greenatone.geodesyse.ir&type=ws#%F0%9F%87%A6%F0%9F%87%B9arvan+greenssh-at1-ws
 vless://1e602405-3ec7-4331-af78-4dc738d87232@seminarsinmcb.faculty.ucdavis.edu:80?path=%2Fvless&security=none&encryption=none&host=lastridingmc.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAfastly-cybertunnel-ws
