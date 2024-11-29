@@ -7,3 +7,4 @@ vless://5d71fa3a-5f7c-4c3d-afc7-22a97e211b2d@greenatone.geodesyse.ir:80?path=%2F
 vless://11e394c0-0373-408e-8bac-3fcb4fcf3a89@seminarsinmcb.faculty.ucdavis.edu:80?path=%2Fvless&security=none&encryption=none&host=lastridingmc.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAfastly-cybertunnel-ws
 vless://c39fc8c3-3819-556e-890b-dd044de5af9b@nadermaks.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=nadermaks.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan+sshmax-vless-ws+nl1
 vless://ff9defa5-e994-4218-8ef5-fa91472fe7ae@fashtio.geodesyse.ir:80?encryption=none&security=none&sni=uk1-vless.greenssh.org&type=ws&host=fashtio.geodesyse.ir&path=%2Fvless#arvan-greenssh-uk1
+vless://d524827d-6e80-52a3-84bd-2bb513449db7@lamiro.geodesyse.ir:80?encryption=none&security=none&sni=uk1-vless.greenssh.org&type=ws&host=lamiro.geodesyse.ir&path=%2Fvless#arvan-sshoccean-be1-vlessws
