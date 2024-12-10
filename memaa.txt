@@ -9,3 +9,4 @@ vless://ae18cfd8-f4ee-4654-92b9-fee33336c048@seminarsinmcb.faculty.ucdavis.edu:8
 vless://d2a3c989-3d46-5ee1-af56-874eaa285f26@nadermaks.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=nadermaks.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan+sshmax-vless-ws+nl1
 vless://f7cfd06d-c27e-4d70-9004-6fc3ffafcc40@fashtio.geodesyse.ir:80?encryption=none&security=none&sni=uk1-vless.greenssh.org&type=ws&host=fashtio.geodesyse.ir&path=%2Fvless#arvan-greenssh-uk1
 vless://0307bbfa-f6ac-515e-a011-3e02e89e5e59@lamiro.geodesyse.ir:80?encryption=none&security=none&sni=uk1-vless.greenssh.org&type=ws&host=lamiro.geodesyse.ir&path=%2Fvless#arvan-sshoccean-be1-vlessws
+vless://f11b2c7a-3cc4-4c0d-8161-efaf20198a77@gefrhck.geodesyse.ir:80?encryption=none&security=none&type=ws&host=gefrhck.geodesyse.ir&path=%2Fvless#%F0%9F%87%B3%F0%9F%87%B1arvan%2Bvpnhack-vless-de1-ws
