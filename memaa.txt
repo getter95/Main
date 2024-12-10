@@ -2,6 +2,7 @@ vless://3be4d4d7-4830-4fbb-b264-383ccf2c2a75@94.159.102.25:443?mode=gun&security
 wireguard://aNl0S3Df3%2BpBM1Xy7fyk0QZcriSNcSGrgR63TaSz1nI%3D@188.114.96.18:500?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A84ca%3Aecc%3A46bc%3Adb6e%3Aebf0%2F128&reserved=81%2C224%2C31&keepalive=0&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1285#🇮🇷Mohammad_wire-g
 
 vless://a2b9232b-f8ae-51ce-8fa6-050d67103674@geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=geodesyse.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7arvan+sshmax-uk1-ws
+vless://75fd4657-c095-59f8-91ee-8ac8e56e2170@itoccean.geodesyse.ir:80?encryption=none&security=none&sni=uk1-vless.greenssh.org&type=ws&host=itoccean.geodesyse.ir&path=%2Fvless#arvan-sshoccean-it2-vlessws
 vless://24fb47aa-6947-46a2-a5a5-d4ea15da124c@maskregtwo.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=maskregtwo.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan+vpnhack-vless-nl1-ws
 vless://6cab6cec-a5d7-4776-bc10-2d967cc202bf@greenatone.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=greenatone.geodesyse.ir&type=ws#%F0%9F%87%A6%F0%9F%87%B9arvan+greenssh-at1-ws
 vless://ae18cfd8-f4ee-4654-92b9-fee33336c048@seminarsinmcb.faculty.ucdavis.edu:80?path=%2Fvless&security=none&encryption=none&host=lastridingmc.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAfastly-cybertunnel-ws
