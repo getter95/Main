@@ -18,6 +18,13 @@ vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.16.98.85:80?path=%2F%3Fed%3D256
 vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@190.93.247.57:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&type=ws#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 
 
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.21.239.50:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#mciCF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.16.93.220:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#mciCF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.24.136.246:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#mciCF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@190.93.246.66:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#mciCF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.20.1.197:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#mciCF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
+
 vless://5a39bcd5-0d4d-4e63-94da-c95af8cdaf2f@trojian.gtolsyg8318.workers.dev:2052?path=%2F415dsxyja7n%3Fed%3D2048&security=none&encryption=none&host=trojian.gtolsyg8318.workers.dev&type=ws#trojian.gtolsyg8318.workers.dev-HTTP-2052
 vless://5a39bcd5-0d4d-4e63-94da-c95af8cdaf2f@trojian.gtolsyg8318.workers.dev:8080?path=%2F415dsxyja7n%3Fed%3D2048&security=none&encryption=none&host=trojian.gtolsyg8318.workers.dev&type=ws#trojian.gtolsyg8318.workers.dev-HTTP-8080
 vless://5a39bcd5-0d4d-4e63-94da-c95af8cdaf2f@trojian.gtolsyg8318.workers.dev:80?path=%2F415dsxyja7n%3Fed%3D2048&security=none&encryption=none&host=trojian.gtolsyg8318.workers.dev&type=ws#trojian.gtolsyg8318.workers.dev-HTTP-80
