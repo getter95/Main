@@ -12,14 +12,13 @@ vless://b428ed6a-f6c6-5ece-bcd7-4d780af9144e@lamiro.geodesyse.ir:80?encryption=n
 vless://3f9232d7-74d8-4941-aaa8-1b1cb49f7f16@gefrhck.geodesyse.ir:80?encryption=none&security=none&type=ws&host=gefrhck.geodesyse.ir&path=%2Fvless#%F0%9F%87%B3%F0%9F%87%B1arvan%2Bvpnhack-vless-de1-ws
 
 
-vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.24.94.147:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.16.205.219:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.24.237.201:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@172.64.199.90:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@172.64.174.73:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@188.114.97.139:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.16.98.85:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@190.93.247.57:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+#edge panel
+vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@188.114.98.46:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.16.53.192:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@190.93.246.80:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.24.83.101:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.24.198.101:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
 
 
 vless://5a39bcd5-0d4d-4e63-94da-c95af8cdaf2f@trojian.gtolsyg8318.workers.dev:2052?path=%2F415dsxyja7n%3Fed%3D2048&security=none&encryption=none&host=trojian.gtolsyg8318.workers.dev&type=ws#trojian.gtolsyg8318.workers.dev-HTTP-2052
