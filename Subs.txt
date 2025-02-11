@@ -12,11 +12,16 @@ vless://3f9232d7-74d8-4941-aaa8-1b1cb49f7f16@gefrhck.geodesyse.ir:80?encryption=
 
 #edge panel
 
-vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.16.9.77:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.24.9.176:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@172.64.231.198:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.24.33.210:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@188.114.97.185:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.16.189.89:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@172.64.32.175:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.18.152.130:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.24.228.61:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@172.67.80.193:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.17.156.80:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.17.67.242:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@104.21.24.202:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://459eef1e-f666-42f5-8f7c-e8f2cd4283ce@172.67.254.204:80?encryption=none&security=none&type=ws&host=soft-recipe-211c.kghobadi741.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
 
 
 #freenode
