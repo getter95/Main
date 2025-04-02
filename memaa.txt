@@ -1,14 +1,14 @@
 wireguard://aNl0S3Df3%2BpBM1Xy7fyk0QZcriSNcSGrgR63TaSz1nI%3D@188.114.96.18:500?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A84ca%3Aecc%3A46bc%3Adb6e%3Aebf0%2F128&reserved=81%2C224%2C31&keepalive=0&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1285#🇮🇷Mohammad_wire-g
 
-vless://89d9db02-0f66-4a4f-b4f2-c30d49713090@geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=geodesyse.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7arvan+sshmax-uk1-ws
-vless://1f7c8826-b830-5d3d-b560-cc97691ebe59@itoccean.geodesyse.ir:80?encryption=none&security=none&sni=uk1-vless.greenssh.org&type=ws&host=itoccean.geodesyse.ir&path=%2Fvless#arvan-sshoccean-it2-vlessws
-vless://63ff13c0-9e48-483b-bb8b-237474f76078@maskregtwo.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=maskregtwo.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan+vpnhack-vless-nl1-ws
-vless://f0813d07-7395-49c5-a8a7-de05579eb5c4@greenatone.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=greenatone.geodesyse.ir&type=ws#%F0%9F%87%A6%F0%9F%87%B9arvan+greenssh-at1-ws
-vless://7f613586-64f7-46f7-a587-d800cf045096@seminarsinmcb.faculty.ucdavis.edu:80?path=%2Fvless&security=none&encryption=none&host=lastridingmc.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAfastly-cybertunnel-ws
-vless://508f3a46-2ec7-581c-8c3c-81a0e81cbb04@nadermaks.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=nadermaks.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan+sshmax-vless-ws+nl1
-vless://379f1b84-2982-4d15-bcb4-34a42e4e4430@fashtio.geodesyse.ir:80?encryption=none&security=none&sni=uk1-vless.greenssh.org&type=ws&host=fashtio.geodesyse.ir&path=%2Fvless#arvan-greenssh-uk1
-vless://67c04f2f-370c-5247-8c5b-b1b258b3d578@lamiro.geodesyse.ir:80?encryption=none&security=none&sni=uk1-vless.greenssh.org&type=ws&host=lamiro.geodesyse.ir&path=%2Fvless#arvan-sshoccean-be1-vlessws
-vless://125f6cc6-d025-4a2e-97cc-2f809c4c034f@gefrhck.geodesyse.ir:80?encryption=none&security=none&type=ws&host=gefrhck.geodesyse.ir&path=%2Fvless#%F0%9F%87%B3%F0%9F%87%B1arvan%2Bvpnhack-vless-de1-ws
+vless://89d9db02-0f66-4a4f-b4f2-c30d49713090@geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=geodesyse.ir&type=ws#%F0%9F%87%B9%F0%9F%87%B7cybertunnel-turkry
+vless://1f7c8826-b830-5d3d-b560-cc97691ebe59@itoccean.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=itoccean.geodesyse.ir&type=ws&sni=uk1-vless.greenssh.org#%F0%9F%87%AE%F0%9F%87%B9arvan-sshoccean-it2-vlessws
+vless://63ff13c0-9e48-483b-bb8b-237474f76078@maskregtwo.geodesyse.ir:80?path=%2Fvless&security=&encryption=none&host=maskregtwo.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan%20vpnhack-vless-nl1-ws
+vless://f0813d07-7395-49c5-a8a7-de05579eb5c4@greenatone.geodesyse.ir:80?path=%2Fvless&security=&encryption=none&host=greenatone.geodesyse.ir&type=ws#%F0%9F%87%A6%F0%9F%87%B9arvan%20greenssh-at1-ws
+vless://7f613586-64f7-46f7-a587-d800cf045096@cybgerforten.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=cybgerforten.geodesyse.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AAcybertunnel-ws
+vless://508f3a46-2ec7-581c-8c3c-81a0e81cbb04@nadermaks.geodesyse.ir:80?path=%2Fvless&security=&encryption=none&host=nadermaks.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan%20sshmax-vless-ws%20nl1
+vless://379f1b84-2982-4d15-bcb4-34a42e4e4430@fashtio.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=fashtio.geodesyse.ir&type=ws&sni=uk1-vless.greenssh.org#%F0%9F%87%AC%F0%9F%87%A7arvan-greenssh-uk1
+vless://67c04f2f-370c-5247-8c5b-b1b258b3d578@lamiro.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=lamiro.geodesyse.ir&type=ws&sni=uk1-vless.greenssh.org#%F0%9F%87%A7%F0%9F%87%AAarvan-sshoccean-be1-vlessws
+vless://125f6cc6-d025-4a2e-97cc-2f809c4c034f@gefrhck.geodesyse.ir:80?path=%2Fvless&security=&encryption=none&host=gefrhck.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan%20vpnhack-vless-de1-ws
 
 #edge panel
 vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.16.227.73:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
