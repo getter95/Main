@@ -9,7 +9,6 @@ vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.24.237.4:80?encryption=none&sec
 vless://193c33fe-c8f3-44ca-b0df-9a64eda146c8@104.20.208.70:80?encryption=none&security=none&type=ws&host=rapid-bread-62cdmmd.alidehghanberenji2000.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 
 
-
 #EDpanel
 vless://0959bb80-1a6b-4c3b-a16e-8c7a2e012009@turk.radicalization.ir:443?encryption=none&security=tls&sni=throbbing-cloud-f215.aminzarforoush.workers.dev&fp=random&type=ws&host=throbbing-cloud-f215.aminzarforoush.workers.dev&path=%2F%3Fed%3D2048#throbbing-cloud-f215.aminzarforoush.workers.dev-HTTPS-8443-turk.radicalization.ir-EDtunnel
 vless://0959bb80-1a6b-4c3b-a16e-8c7a2e012009@throbbing-cloud-f215.aminzarforoush.workers.dev:2053?encryption=none&security=tls&sni=throbbing-cloud-f215.aminzarforoush.workers.dev&fp=random&type=ws&host=throbbing-cloud-f215.aminzarforoush.workers.dev&path=%2F%3Fed%3D2048#throbbing-cloud-f215.aminzarforoush.workers.dev-HTTPS-2053
