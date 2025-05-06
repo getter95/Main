@@ -50,3 +50,5 @@ vless://97ab9eba-3809-452c-b3eb-190f796a56ff@www.iakeys.com:443?encryption=none&
 vless://97ab9eba-3809-452c-b3eb-190f796a56ff@pranab.ns.cloudflare.com:443?encryption=none&security=tls&sni=tiny-tooth-266c.gtolsyg8318.workers.dev&fp=randomized&type=ws&host=tiny-tooth-266c.gtolsyg8318.workers.dev&path=%2Ftiny-tooth-266c.gtolsyg8318.workers.dev%2F%3Fed%3D2560#tiny-tooth-266c.gtolsyg8318.workers.dev%20%E8%AF%B7%E9%80%9A%E8%BF%87%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D%E8%AE%A2%E9%98%85%EF%BC%81
 
 
+vless://95897e9a-7410-4f0f-82da-ad1be2ed5a5d@zula.ir:8080?encryption=none&security=none&type=ws&host=bold-meadow-eb6a.alidehghanberenji2000.workers.dev#yonggekkk%2FCloudflare_vless
+
