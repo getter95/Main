@@ -1,12 +1,3 @@
-vless://89d9db02-0f66-4a4f-b4f2-c30d49713090@geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=geodesyse.ir&type=ws#%F0%9F%87%B9%F0%9F%87%B7cybertunnel-turkry
-vless://1f7c8826-b830-5d3d-b560-cc97691ebe59@itoccean.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=itoccean.geodesyse.ir&type=ws&sni=uk1-vless.greenssh.org#%F0%9F%87%AE%F0%9F%87%B9arvan-sshoccean-it2-vlessws
-vless://63ff13c0-9e48-483b-bb8b-237474f76078@maskregtwo.geodesyse.ir:80?path=%2Fvless&security=&encryption=none&host=maskregtwo.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan%20vpnhack-vless-nl1-ws
-vless://f0813d07-7395-49c5-a8a7-de05579eb5c4@greenatone.geodesyse.ir:80?path=%2Fvless&security=&encryption=none&host=greenatone.geodesyse.ir&type=ws#%F0%9F%87%A6%F0%9F%87%B9arvan%20greenssh-at1-ws
-vless://7f613586-64f7-46f7-a587-d800cf045096@cybgerforten.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=cybgerforten.geodesyse.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AAcybertunnel-ws
-vless://508f3a46-2ec7-581c-8c3c-81a0e81cbb04@nadermaks.geodesyse.ir:80?path=%2Fvless&security=&encryption=none&host=nadermaks.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan%20sshmax-vless-ws%20nl1
-vless://379f1b84-2982-4d15-bcb4-34a42e4e4430@fashtio.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=fashtio.geodesyse.ir&type=ws&sni=uk1-vless.greenssh.org#%F0%9F%87%AC%F0%9F%87%A7arvan-greenssh-uk1
-vless://67c04f2f-370c-5247-8c5b-b1b258b3d578@lamiro.geodesyse.ir:80?path=%2Fvless&security=none&encryption=none&host=lamiro.geodesyse.ir&type=ws&sni=uk1-vless.greenssh.org#%F0%9F%87%A7%F0%9F%87%AAarvan-sshoccean-be1-vlessws
-vless://125f6cc6-d025-4a2e-97cc-2f809c4c034f@gefrhck.geodesyse.ir:80?path=%2Fvless&security=&encryption=none&host=gefrhck.geodesyse.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1arvan%20vpnhack-vless-de1-ws
 
 #edge panel
 
