@@ -1,3 +1,7 @@
+vless://61e1a2af-235e-53d8-9a69-abb47c1e25c0@geodesyse.ir:80?encryption=none&security=none&type=ws&host=geodesyse.ir&path=%2Fvless#UK%20-sshmax
+vless://1ff679b5-31f1-559d-84e2-39ef0375fbb8@itoccean.geodesyse.ir:80?encryption=none&security=none&sni=uk1-vless.greenssh.org&type=ws&host=itoccean.geodesyse.ir&path=%2Fvless#%F0%9F%87%BA%F0%9F%87%B2%20USA%20-sshmax
+vless://f411631a-49d7-5629-a089-8bf93369ad5c@maskregtwo.geodesyse.ir:80?encryption=none&security=none&type=ws&host=maskregtwo.geodesyse.ir&path=%2Fvless#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-sshmax
+vless://fabb3561-cb5a-591a-9b5a-211cc17772c6@greenatone.geodesyse.ir:80?encryption=none&security=none&type=ws&host=greenatone.geodesyse.ir&path=%2Fvless#Poland%20-sshmax
 
 #edge panel
 
