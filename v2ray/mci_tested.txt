@@ -1,8 +1,12 @@
-# NL | 711ms | 🔹@MTMVPN
+# NL | 620ms | 🔹@MTMVPN
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%94%B9%40MTMVPN
-# LV | 1184ms | 🇱🇻[openproxylist.com] ss-LV
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#🇱🇻[openproxylist.com] ss-LV
-# CO | 1234ms | @vpnclashfa - 244
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#@vpnclashfa - 244
-# US | 1267ms | REALITY|RU🇷🇺 | 5.181.171.10-443 | 9.25ms
+# US | 1011ms | REALITY|RU🇷🇺 | 5.181.171.10-443 | 9.25ms
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none#REALITY|RU🇷🇺 | 5.181.171.10-443 | 9.25ms
+# NL | 1027ms | 🔹@MTMVPN
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.197.63:8880?path=%2FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#%F0%9F%94%B9%40MTMVPN
+# US | 1092ms | @meli_proxyy
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none#@meli_proxyy
+# IR | 1714ms | 🇮🇷[openproxylist.com] vless-IR
+vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?security=none&type=ws&path=/#🇮🇷[openproxylist.com] vless-IR
+# SE | 1723ms | @vpnclashfa - 85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#@vpnclashfa - 85
