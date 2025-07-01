@@ -1,5 +1,5 @@
 # This is my private, super-fast server that I added manually.
 vless://5e83d6da-ec4b-43df-b496-82b1b2027c0b@172.66.46.97:80?encryption=none&security=none&sni=muddy-sunset-3bd3.chi-scka-l-umand-i1-91.workers.dev&fp=randomized&allowInsecure=1&type=ws&host=muddy-sunset-3bd3.chi-scka-l-umand-i1-91.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
-
-
 ##-STATIC-CONFIGS-##
+# US | 1173ms | @vpnclashfa - 1573
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#@vpnclashfa - 1573
