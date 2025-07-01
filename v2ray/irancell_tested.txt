@@ -1,3 +1,7 @@
+# This is my private, super-fast server that I added manually.
+vless://5e83d6da-ec4b-43df-b496-82b1b2027c0b@172.66.46.97:80?encryption=none&security=none&sni=muddy-sunset-3bd3.chi-scka-l-umand-i1-91.workers.dev&fp=randomized&allowInsecure=1&type=ws&host=muddy-sunset-3bd3.chi-scka-l-umand-i1-91.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
+wireguard://aNl0S3Df3%2BpBM1Xy7fyk0QZcriSNcSGrgR63TaSz1nI%3D@188.114.98.224:928?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A84ca%3Aecc%3A46bc%3Adb6e%3Aebf0%2F128&presharedkey=&reserved=81%2C224%2C31&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1285#%F0%9F%87%AE%F0%9F%87%B7wire-g
+##-STATIC-CONFIGS-##
 # CA | 686ms | 
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.6.169:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org
 # CA | 742ms | @vpnclashfa - 1199
