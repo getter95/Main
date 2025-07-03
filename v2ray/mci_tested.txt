@@ -2,89 +2,23 @@
 vless://5e83d6da-ec4b-43df-b496-82b1b2027c0b@172.66.46.97:80?encryption=none&security=none&sni=muddy-sunset-3bd3.chi-scka-l-umand-i1-91.workers.dev&fp=randomized&allowInsecure=1&type=ws&host=muddy-sunset-3bd3.chi-scka-l-umand-i1-91.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
 wireguard://aNl0S3Df3%2BpBM1Xy7fyk0QZcriSNcSGrgR63TaSz1nI%3D@188.114.98.224:928?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A84ca%3Aecc%3A46bc%3Adb6e%3Aebf0%2F128&presharedkey=&reserved=81%2C224%2C31&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1285#%F0%9F%87%AE%F0%9F%87%B7wire-g
 ##-STATIC-CONFIGS-##
-# ?? | 703ms | >>@v2ray1_ng::US
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&sni=barayeiran.nastaranh.dpdns.org#%3E%3E%40v2ray1_ng%3A%3AUS
-# ?? | 795ms | سرورهای رایگان و پرسرعت : vpn_Sra@``
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.134.126:80?path=%2FTelegram%40trust_v2config%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=random&type=ws&sni=abcd.taraneh.dpdns.org#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20vpn_Sra%40``
-# US | 826ms | >>@V2rayNG3::NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#%3E%3E%40V2rayNG3%3A%3ANL
-# ?? | 889ms | >>@DailyV2RY::FI
-vless://3bbdc4fa-63fd-4c30-8ff1-a4e08a8c7f47@chloe.ns.cloudflare.com:443?encryption=none&security=tls&sni=hgwbkjp9.musicirans.ir&type=ws&alpn=http/1.1&host=hgwbkjp9.musicirans.ir&path=/wss#%3E%3E%40DailyV2RY%3A%3AFI
-# CA | 922ms | 🇸🇬[openproxylist.com] vless-SG
-vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@104.21.95.156:443?encryption=none&security=tls&sni=faruzan.changli.ddns-ip.net&alpn=http%2F1.1&fp=random&type=ws&host=faruzan.changli.ddns-ip.net&path=%2FTelegram%40V2ray_Alph#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
-# ?? | 942ms | 🍓@xixv2ray 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?encryption=none&security=none&type=ws&host=1750293123492.china.baidu.bilibili.china.aeko.cn&path=%2F%3Fed%3D2048#%F0%9F%8D%93%40xixv2ray%20
-# US | 946ms | >>@shadowproxy66::NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#%3E%3E%40shadowproxy66%3A%3ANL
-# ?? | 946ms | >>@shadowproxy66::NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%3E%3E%40shadowproxy66%3A%3ANL
-# ?? | 948ms | 🇸🇬[openproxylist.com] vless-SG
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.59.104:80?encryption=none&security=none&type=ws&host=barayeiran.nastaranh.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
-# ?? | 959ms | 🌐 @Maziyar_Configs | مازیار کانفیگ```
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?encryption=none&security=none&sni=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&host=barayeiran.nastaranh.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20%40Maziyar_Configs%20%7C%20%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF```
-# ?? | 963ms | >>@shadowproxy66::NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#%3E%3E%40shadowproxy66%3A%3ANL
-# US | 984ms | 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080
-# ?? | 984ms | 🇸🇬[openproxylist.com] vless-SG```
-vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.24.135.83:80?encryption=none&security=none&sni=delam.ahaysiahzangi.dpdns.org&fp=random&type=ws&host=delam.ahaysiahzangi.dpdns.org&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG```
-# RU | 992ms | >>@vmessiran::RU
-vmess://eyJhZGQiOiIzMS4xMjkuMTA1LjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMzEuMTI5LjEwNS4yMzkiLCJpZCI6Ijc5M2UwM2NjLTJiMDgtNGQxYi1iYjBiLTU5MjU2N2QxOTA0MyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTYyMzEiLCJwcyI6Ij4+QHZtZXNzaXJhbjo6UlUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
-# ?? | 994ms | 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080
-# ?? | 1002ms | 🪐42@oneclickvpnkeys
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135004002.sec20org.com&fp=chrome#%F0%9F%AA%9042%40oneclickvpnkeys
-# GB | 1008ms | TelegramID ⌲Express_freevpn 💰مرجع کانفیگ های رایگان`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%92%B0%D9%85%D8%B1%D8%AC%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86`
-# US | 1020ms | 🇱🇹 Lithuania - NA 🌍 SS-TCP-NA 4⃣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-# ?? | 1032ms | @Filter_breaker
-vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.16.1.106:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=delam.ahaysiahzangi.dpdns.org&fp=random&type=ws&sni=delam.ahaysiahzangi.dpdns.org#@Filter_breaker
-# ?? | 1034ms | 🇸🇬[openproxylist.com] vless-SG
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.34:80?encryption=none&security=none&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
-# ?? | 1044ms | 👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.1ms
-vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.16.1.106:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=delam.ahaysiahzangi.dpdns.org&fp=random&type=ws&sni=delam.ahaysiahzangi.dpdns.org#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.1ms
-# US | 1075ms | 🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.178:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B1%F0%9F%87%B9%20LT-45.87.175.178%3A8080
-# GB | 1077ms | >>@yaney_01::GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS52YXJ6ZXNoMzYwLmNvOjQ0Mw==#%3E%3E%40yaney_01%3A%3AGB
-# ?? | 1081ms | 🌐 @Maziyar_Configs | مازیار کانفیگ```
-vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@www.speedtest.net:2083?encryption=none&security=tls&sni=fREEDOM.pAnOtOsu.SToRE&alpn=http%2F2&fp=randomized&type=ws&host=freedom.panotosu.store&path=%2FsVmIDWvjebBnvJ3c%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560#%F0%9F%8C%90%20%40Maziyar_Configs%20%7C%20%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF```
-# GB | 1085ms | >>@Outline_Vpn::GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%3E%3E%40Outline_Vpn%3A%3AGB
-# ?? | 1110ms | 🇸🇬[openproxylist.com] vless-SG
-vless://1d173704-d5cc-4ce2-8b06-3a9a71037530@104.18.13.149:443?encryption=none&security=tls&sni=rayan-army.foton.dpdns.org&fp=chrome&allowInsecure=1&type=ws&host=rayan-army.foton.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
-# ?? | 1111ms | >>@DailyV2RY::FI
-vless://ecca8700-af9f-4ebc-8df0-5fd7559a000c@chloe.ns.cloudflare.com:443?encryption=none&security=tls&sni=nr5jsvub.musicirans.ir&type=ws&alpn=http/1.1&host=nr5jsvub.musicirans.ir&path=/wss#%3E%3E%40DailyV2RY%3A%3AFI
-# ?? | 1158ms | 🌐 @Maziyar_Configs | مازیار کانفیگ```
-vless://428a89cb-4d52-4acc-81b6-c9dcf381a1b2@www.speedtest.net:443?encryption=none&security=tls&sni=rayan-light.parvin.dpdns.org&fp=chrome&allowInsecure=1&type=ws&host=rayan-light.parvin.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20%40Maziyar_Configs%20%7C%20%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF```
-# ?? | 1175ms | 
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1
-# ?? | 1183ms | 🌐 @Maziyar_Configs | مازیار کانفیگ```
-vless://db7a5e4e-05b8-4111-ab6c-11a1ef87163d@www.speedtest.net:443?encryption=none&security=tls&sni=rayan-fast.parmida.dpdns.org&fp=chrome&allowInsecure=1&type=ws&host=rayan-fast.parmida.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20%40Maziyar_Configs%20%7C%20%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF```
-# CA | 1184ms | 🇸🇬[openproxylist.com] vless-SG
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.19.174.68:443?encryption=none&security=tls&sni=rayan-08.leila.dpdns.org&fp=chrome&type=ws&host=rayan-08.leila.dpdns.org&path=%2F%40Rayan_Config#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
-# ?? | 1262ms | 🇫🇷 FR-51.195.119.47:1080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7%20FR-51.195.119.47%3A1080
-# ?? | 1267ms | 
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.98:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&fp=chrome
-# ?? | 1284ms | 
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1
-# ?? | 1398ms | 🇺🇸[openproxylist.com] vless-US
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
-# ?? | 1409ms | Telegram | @FNET00📱
-vmess://eyJhZGQiOiAiMTUuMjA0LjI0OC45MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0NjY3MTUtNmE1OC00MDQ2LWEzNjMtYTBkMThlNWIyYWI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzMDU2MiIsICJwcyI6ICJUZWxlZ3JhbSB8IEBGTkVUMDBcdWQ4M2RcdWRjZjEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-# US | 1412ms | 🔒 VM-TCP-NA 🇺🇸 US-15.204.86.120:35696
-vmess://eyJhZGQiOiIxNS4yMDQuODYuMTIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhZDA1MDRhLWE5ZGMtNGQyOS04ODQ0LWIxMWI2OWYxNGE4ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzU2OTYiLCJwcyI6IvCflJIgVk0tVENQLU5BIPCfh7rwn4e4IFVTLTE1LjIwNC44Ni4xMjA6MzU2OTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-# ?? | 1414ms | 🌐T-Net Plus`
-vless://1f431db3-1918-4e7b-a855-c93485e11694@172.67.111.215:443?encryption=none&security=tls&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%8C%90T-Net%20Plus`
-# ?? | 1418ms | 🌐T-Net Plus`
-vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.95.229:2053?encryption=none&host=invincible.fafa20.shop&type=ws&security=tls&path=%2FHgdRelVcve9Ra99p%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&sni=iNVincibLe.FafA20.shOp&fp=randomized&alpn=http%2F1.1#%F0%9F%8C%90T-Net%20Plus`
-# GB | 1432ms | >>@Outline_Vpn::GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%3E%3E%40Outline_Vpn%3A%3AGB
-# CA | 1433ms | 🪐32@oneclickvpnkeys
-vmess://eyJhZGQiOiJkZGRmRkZ2dkJuaEpVLjkzMS5wUC51QSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJkZGRmZmZ2dmJuaGp1LjkzMS5wcC51YSIsImlkIjoiYTRlOGVjMGEtNzVkMC00ZmM1LTgzN2EtNDk3M2VkM2E5ZDNlIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE0RnppcXcxaFlnQ1hOdXRrUzVIIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+qkDMyQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJkRGRmZkZWdmJOSEpVLjkzMS5QUC5VYSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-# GB | 1459ms | 🇬🇧 amirw_shop_q`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@FreakConfig.usecharge.ir:443#%F0%9F%87%AC%F0%9F%87%A7%20amirw_shop_q`
-# GB | 1475ms | 👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A7%F0%9F%87%ADBahrain
+# GB | 953ms | 🔒 VL-WS-NA 🇬🇧 GB-109.176.239.3:8880
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@109.176.239.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram#🔒 VL-WS-NA 🇬🇧 GB-109.176.239.3:8880
+# ?? | 969ms | 🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.90:80
+vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?security=none&type=ws&host=s1.mitivpn.workers.dev&path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.90:80
+# US | 1031ms | 🔒 VL-WS-NA 🇺🇸 US-135.84.74.247:8880
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@135.84.74.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-135.84.74.247:8880
+# ?? | 1051ms | 🔒 VL-WS-NA 🇺🇸 US-135.84.75.13:8880
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@135.84.75.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.75.13:8880
+# ES | 1286ms | @V2RayAG (🇪🇸) | کانفیگ‌های رایگان
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUFZvbVJScWRGR1JUSmxWMEx4OGlt@194.87.45.189:443#@V2RayAG (🇪🇸) | کانفیگ‌های رایگان
+# ?? | 1394ms | 🔒 VL-WS-NONE 🇭🇰 HK-45.192.222.213:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.213:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F#🔒 VL-WS-NONE 🇭🇰 HK-45.192.222.213:8880
+# ?? | 1403ms | 🔒 VL-WS-NA 🇺🇸 US-198.62.62.247:8880
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@198.62.62.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-198.62.62.247:8880
+# US | 1462ms | 🔒 VL-WS-NA 🇺🇸 US-199.34.229.3:8880
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@199.34.229.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-199.34.229.3:8880
+# ?? | 1486ms | 🔒 VL-WS-NONE 🇺🇸 US-141.193.213.10:80
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?security=none&type=ws&host=us.laoyoutiao.link&path=%2Ftelegram-MTMVPN#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.10:80
+# ?? | 1489ms | 🔒 VL-WS-NONE 🇺🇸 US-135.84.76.63:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.76.63:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NONE 🇺🇸 US-135.84.76.63:8880
