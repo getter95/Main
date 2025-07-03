@@ -2,153 +2,73 @@
 vless://5e83d6da-ec4b-43df-b496-82b1b2027c0b@172.66.46.97:80?encryption=none&security=none&sni=muddy-sunset-3bd3.chi-scka-l-umand-i1-91.workers.dev&fp=randomized&allowInsecure=1&type=ws&host=muddy-sunset-3bd3.chi-scka-l-umand-i1-91.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
 wireguard://aNl0S3Df3%2BpBM1Xy7fyk0QZcriSNcSGrgR63TaSz1nI%3D@188.114.98.224:928?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A84ca%3Aecc%3A46bc%3Adb6e%3Aebf0%2F128&presharedkey=&reserved=81%2C224%2C31&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1285#%F0%9F%87%AE%F0%9F%87%B7wire-g
 ##-STATIC-CONFIGS-##
-# CA | 686ms | 
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.6.169:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org
-# CA | 742ms | @vpnclashfa - 1199
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?encryption=none&security=none&sni=agolna.mahsaamini.dpdns.org&fp=random&type=ws&host=agolna.mahsaamini.dpdns.org&path=%2FBaRAyeIran%3Fed%3D2560#@vpnclashfa - 1199
-# CA | 753ms | @G0Dv2ray
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#%40G0Dv2ray
-# CA | 755ms | @vpnclashfa - 1198
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80/?path=%2FBaRAyeIran%3Fed%3D2560&security=&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#@vpnclashfa - 1198
-# ?? | 771ms | @meli_proxyy
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40Filter_breaker%2F%3Fed%3D2560&security=&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#@meli_proxyy
-# CA | 771ms | RELAY🚩 | agolna.mahsaamini.dpdns.org-80 | 6.06ms
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&security=&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#RELAY🚩 | agolna.mahsaamini.dpdns.org-80 | 6.06ms
-# ?? | 772ms | @vpnclashfa - 1288
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80/?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#@vpnclashfa - 1288
-# ?? | 773ms | RELAY🚩 | tannaz.juveitaly.dpdns.org-80 | 5.94ms
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.38.63:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#RELAY🚩 | tannaz.juveitaly.dpdns.org-80 | 5.94ms
-# ?? | 828ms | @vpnclashfa - 1196
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.24.60.135:80/?path=%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#@vpnclashfa - 1196
-# ?? | 846ms | 🇫🇷[openproxylist.com] vless-FR
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&sni=TABRIZ.NET&type=grpc&fp=chrome&alpn=h2,http/1.1#🇫🇷[openproxylist.com] vless-FR
-# ?? | 897ms | @vpnclashfa - 1148
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&sni=barayeiran.nastaranh.dpdns.org#@vpnclashfa - 1148
-# ?? | 901ms | @VIPro
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.16.136.210:80?security=none&sni=agolna.mahsaamini.dpdns.org&type=ws&host=agolna.mahsaamini.dpdns.org&path=%2F%3Fed%3D2560&fp=random&allowInsecure=1#@VIPro
-# CA | 910ms | @V2ray1_Ng
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#%40V2ray1_Ng
-# ?? | 911ms | @vpnclashfa - 1014
-vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?encryption=none&security=none&type=ws&path=%2F#@vpnclashfa - 1014
-# ?? | 914ms | RELAY🚩 | tannaz.juveitaly.dpdns.org-80 | 5.93ms
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#RELAY🚩 | tannaz.juveitaly.dpdns.org-80 | 5.93ms
-# CA | 940ms | @meli_proxyy
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#@meli_proxyy
-# ?? | 949ms | @vpnclashfa - 1573
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#@vpnclashfa - 1573
-# ?? | 961ms | RELAY🚩 | agolna.mahsaamini.dpdns.org-80 | 6.23ms
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#RELAY🚩 | agolna.mahsaamini.dpdns.org-80 | 6.23ms
-# GB | 995ms | https://t.me/NPR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#https://t.me/NPR
-# ?? | 997ms | @meli_proxyy
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.103.97:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#@meli_proxyy
-# CA | 1011ms | @vpnclashfa - 957
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.103.97:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#@vpnclashfa - 957
-# ?? | 1013ms | @vpnclashfa - 1136
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?security=none&sni=br.presskiwi.dpdns.org&type=ws&host=br.presskiwi.dpdns.org&path=%2FBaRAyeIran%3Fed%3D2560&fp=random#@vpnclashfa - 1136
-# CA | 1026ms | Telegram: @vpnbaz
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#Telegram%3A%20%40vpnbaz
-# ?? | 1036ms | Channel id: @ShadowProxy66🇨🇦
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
-# ?? | 1051ms | @vpnclashfa - 1575
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#@vpnclashfa - 1575
-# CA | 1072ms | RELAY🚩 | coco.mahmoodchitooz.dpdns.org-80 | 5.82ms
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?encryption=none&security=none&sni=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&host=coco.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#RELAY🚩 | coco.mahmoodchitooz.dpdns.org-80 | 5.82ms
-# GB | 1100ms | All net telegram:@ultrasurf_12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#All%20net%20telegram%3A%40ultrasurf_12
-# US | 1100ms | LT🇱🇹+|+45.87.175.192-8080+|+87.16ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.192-8080+%7C+87.16ms
-# ?? | 1111ms | Channel id: @ShadowProxy66🇩🇪
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-# CA | 1115ms | @meli_proxyy
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.33.67:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&fp=random&type=ws&sni=br.presskiwi.dpdns.org#@meli_proxyy
-# CA | 1119ms | @vpnclashfa - 1118
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#@vpnclashfa - 1118
-# ?? | 1126ms | GB🇬🇧+|+admin.c1.webramz.co-443+|+81.47ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+admin.c1.webramz.co-443+%7C+81.47ms
-# CA | 1142ms | RELAY🚩 | br.presskiwi.dpdns.org-80 | 433.47ms
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.33.67:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&fp=random&type=ws&sni=br.presskiwi.dpdns.org#RELAY🚩 | br.presskiwi.dpdns.org-80 | 433.47ms
-# US | 1146ms | @vpnclashfa - 1711
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#@vpnclashfa - 1711
-# ?? | 1152ms | 🇰🇿[openproxylist.com] trojan-KZ
-trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=%2F#🇰🇿[openproxylist.com] trojan-KZ
-# CA | 1198ms | RELAY🚩 | a1.ghormehsabzi.dpdns.org-80 | 425.22ms
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.67.10.124:80?security=none&type=ws&host=a1.ghormehsabzi.dpdns.org&path=%2F%3Fed%3D2580#RELAY🚩 | a1.ghormehsabzi.dpdns.org-80 | 425.22ms
-# US | 1220ms | LT🇱🇹+|+45.87.175.157-8080+|+85.09ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.157-8080+%7C+85.09ms
-# CA | 1228ms | @vpnclashfa - 1119
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.6.169:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#@vpnclashfa - 1119
-# CA | 1246ms | @VIPro
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.133.134:80?security=none&sni=abcd.taraneh.dpdns.org&type=ws&host=abcd.taraneh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#@VIPro
-# ?? | 1248ms | 🇺🇸[openproxylist.com] vless-US
-vless://bc822b01-7c8b-46d9-b678-4caeaeb56f46@172.233.199.36:2321?type=tcp#🇺🇸[openproxylist.com] vless-US
-# ?? | 1250ms | IRAN 114 (@Outline_Vpn) Free
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#IRAN%20114%20%28%40Outline_Vpn%29%20Free
-# ?? | 1274ms | RELAY🚩 | mail.ski1plag.ir-80 | 223.51ms
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?security=none&encryption=none&type=ws&host=mail.ski1plag.ir&path=%2F%3FBIA_CHANEL%40VpnChangiz#RELAY🚩 | mail.ski1plag.ir-80 | 223.51ms
-# ?? | 1274ms | @Golestan_VPN - 👈 خرید کانفیگ
-vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80?encryption=none&security=none&sni=ey.nazanin.dpdns.org&fp=random&type=ws&host=ey.nazanin.dpdns.org&path=%2F%3Fed%3D2560#%40Golestan_VPN%20-%20%F0%9F%91%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-# CA | 1279ms | @meli_proxyy
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&fp=random&type=ws&sni=di.dibdibini.dpdns.org#@meli_proxyy
-# ?? | 1281ms | @meli_proxyy
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40V2mamad%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#@meli_proxyy
-# ?? | 1292ms | RELAY🚩 | br.presskiwi.dpdns.org-80 | 6.26ms
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?security=none&sni=br.presskiwi.dpdns.org&type=ws&host=br.presskiwi.dpdns.org&path=%2FBaRAyeIran%3Fed%3D2560&fp=random#RELAY🚩 | br.presskiwi.dpdns.org-80 | 6.26ms
-# ?? | 1297ms | @vpnclashfa - 1583
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#@vpnclashfa - 1583
-# CA | 1300ms | 🇸🇬[openproxylist.com] vless-SG
-vless://9314580d-c11e-4f32-d544-566e6142565a@104.26.13.31:8080?security=none&type=ws&host=0612.heweiyi.dpdns.org&path=/#🇸🇬[openproxylist.com] vless-SG
-# CA | 1306ms | 
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#
-# CA | 1311ms | @vpnclashfa - 1115
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.109.107:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#@vpnclashfa - 1115
-# ?? | 1313ms | @meli_proxyy♾ نامحدود ایرانسل 🛜⭐️سایر اپراتورها خودتون تست کتید
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&fp=random&type=ws&sni=sib.sibzamini.dpdns.org#@meli_proxyy♾ نامحدود ایرانسل 🛜⭐️سایر اپراتورها خودتون تست کتید
-# CA | 1318ms | @meli_proxyy
-vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.180.35:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&fp=random&type=ws&sni=dw.alibichareh.dpdns.org#@meli_proxyy
-# ?? | 1320ms | @vpnclashfa - 1214
-vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80/?path=%2F%3Fed%3D2560&security=none&encryption=none&host=ey.nazanin.dpdns.org&fp=random&type=ws&sni=ey.nazanin.dpdns.org#@vpnclashfa - 1214
-# GB | 1330ms | @TeLPJ+تمام+نت+ها+🟦🟨
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%40TeLPJ+%D8%AA%D9%85%D8%A7%D9%85+%D9%86%D8%AA+%D9%87%D8%A7+%F0%9F%9F%A6%F0%9F%9F%A8
-# ?? | 1342ms | @meli_proxyy
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.38.63:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#@meli_proxyy
-# ?? | 1355ms | Channel id: @ShadowProxy66🇨🇭
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%AD
-# ?? | 1357ms | RELAY🚩 | coco.mahmoodchitooz.dpdns.org-80 | 6.05ms
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#RELAY🚩 | coco.mahmoodchitooz.dpdns.org-80 | 6.05ms
-# ?? | 1359ms | @vpnclashfa - 958
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.119.85:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#@vpnclashfa - 958
-# CA | 1364ms | @meli_proxyy
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#@meli_proxyy
-# ?? | 1367ms | RELAY🚩 | tannaz.juveitaly.dpdns.org-80 | 104.18ms
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?security=none&sni=tannaz.juveitaly.dpdns.org&type=ws&host=tannaz.juveitaly.dpdns.org&path=%2F%3Fed%3D2560&fp=random#RELAY🚩 | tannaz.juveitaly.dpdns.org-80 | 104.18ms
-# GB | 1378ms | IRAN 143 (@Outline_Vpn) free
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#IRAN%20143%20%28%40Outline_Vpn%29%20free
-# ?? | 1388ms | GB🇬🇧+|+admin.c2.webramz.co-443+|+127.29ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+admin.c2.webramz.co-443+%7C+127.29ms
-# ?? | 1407ms | @TeLPJ+تمام+نت+ها+🟦🟨
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#%40TeLPJ+%D8%AA%D9%85%D8%A7%D9%85+%D9%86%D8%AA+%D9%87%D8%A7+%F0%9F%9F%A6%F0%9F%9F%A8
-# ?? | 1410ms | @vpnclashfa - 1289
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#@vpnclashfa - 1289
-# ?? | 1415ms | @meli_proxyy
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.103.97:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#@meli_proxyy
-# ?? | 1417ms | S33
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.25.45.48:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#S33
-# CA | 1422ms | RELAY🚩 | aymng.bahareh.dpdns.org-80 | 444.56ms
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.25.45.48:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#RELAY🚩 | aymng.bahareh.dpdns.org-80 | 444.56ms
-# CA | 1423ms | @vpnclashfa - 848
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.66.150.129:80?security=none&sni=sib.sibzamini.dpdns.org&type=ws&host=sib.sibzamini.dpdns.org&path=%2F%3Fed%3D2560&fp=random#@vpnclashfa - 848
-# CA | 1428ms | @VIPro
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?security=none&sni=tannaz.juveitaly.dpdns.org&type=ws&host=tannaz.juveitaly.dpdns.org&path=%2F%3Fed%3D2560&fp=random#@VIPro
-# CA | 1432ms | RELAY🚩 | aymng.bahareh.dpdns.org-80 | 6.15ms
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.85.22:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#RELAY🚩 | aymng.bahareh.dpdns.org-80 | 6.15ms
-# ?? | 1453ms | RELAY🚩 | coco.mahmoodchitooz.dpdns.org-80 | 67.42ms
-vless://b28eb861-1748-4200-ba72-278669edc33b@172.67.252.98:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#RELAY🚩 | coco.mahmoodchitooz.dpdns.org-80 | 67.42ms
-# ?? | 1474ms | @vpnclashfa - 2221
-
-vmess://eyJhZGQiOiIxOTIuNTMuMTEzLjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzZhMjhjMy01YzhkLTRkZjMtYTc5Yi05ZGE2MjI2NDBmMmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDAyIiwicHMiOiJAdnBuY2xhc2hmYSAtIDIyMjFcbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-# ?? | 1475ms | @vpnclashfa - 2220
-
-vmess://eyJhZGQiOiIxOTIuNTMuMTEzLjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzZhMjhjMy01YzhkLTRkZjMtYTc5Yi05ZGE2MjI2NDBmMmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDAyIiwicHMiOiJAdnBuY2xhc2hmYSAtIDIyMjBcbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-# ?? | 1482ms | RELAY🚩 | sib.sibzamini.dpdns.org-80 | 5.7ms
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&fp=random&type=ws&sni=sib.sibzamini.dpdns.org#RELAY🚩 | sib.sibzamini.dpdns.org-80 | 5.7ms
+# ?? | 589ms | >>@v2rayng_fast::US
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=dw.alibichareh.dpdns.org&fp=random&type=ws&sni=dw.alibichareh.dpdns.org#%3E%3E%40v2rayng_fast%3A%3AUS
+# ?? | 739ms | 🍓@xixv2ray 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?encryption=none&security=none&type=ws&host=1750293123492.china.baidu.bilibili.china.aeko.cn&path=%2F%3Fed%3D2048#%F0%9F%8D%93%40xixv2ray%20
+# ?? | 750ms | >>@v2ray1_ng::US
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&fp=random&type=ws&sni=dw.alibichareh.dpdns.org#%3E%3E%40v2ray1_ng%3A%3AUS
+# ?? | 797ms | 🇸🇬[openproxylist.com] vless-SG
+vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@104.21.95.156:443?encryption=none&security=tls&sni=faruzan.changli.ddns-ip.net&alpn=http%2F1.1&fp=random&type=ws&host=faruzan.changli.ddns-ip.net&path=%2FTelegram%40V2ray_Alph#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
+# ?? | 852ms | 
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&sid=
+# CA | 866ms | >>@vmessiran::CA
+vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiPj5Adm1lc3NpcmFuOjpDQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+# ?? | 868ms | IRAN 29 (@Outline_Vpn) Free
+vmess://eyJhZGQiOiIxMDQuMTcuMTc2LjE3MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2U3aHozNmV3ei00NTE1MDE3NDczLm1hc2hhbGxhaGJldC5jb20iLCJpZCI6IjZjYmM5Yzc4LTFjYjEtNTdkNC1hOTk5LWUyZjRlMzRjMWUwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IklSQU4gMjkgKEBPdXRsaW5lX1ZwbikgRnJlZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+# ?? | 900ms | Telegram: @v2node
+vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwiaWQiOiJrZTdoejM2ZXd6IiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4iLCJwb3J0IjoiODA4MCIsInBzIjoiVGVsZWdyYW06IEB2Mm5vZGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+# ?? | 947ms | 🇸🇬[openproxylist.com] vless-SG
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.59.104:80?encryption=none&security=none&type=ws&host=barayeiran.nastaranh.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
+# ?? | 987ms | 22🪐@oneclickvpnkeys
+vless://ddd32705-ab32-4a8b-84db-092b75647453@172.104.173.136:2321/?type=tcp&encryption=none&flow=&packetEncoding=xudp#22%F0%9F%AA%90%40oneclickvpnkeys
+# ?? | 995ms | سرورهای رایگان و پرسرعت : trust_v2config@`
+vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.119.85:80?path=%2FTelegram%40trust_v2config%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20trust_v2config%40`
+# ?? | 995ms | >>@v2ray1_ng::US
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&sni=barayeiran.nastaranh.dpdns.org#%3E%3E%40v2ray1_ng%3A%3AUS
+# ?? | 1039ms | 🌐T-Net Plus`
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.199.205:80?encryption=none&security=none&sni=fggerlad.gerald81.dpdns.org&fp=random&type=ws&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%8C%90T-Net%20Plus`
+# ?? | 1044ms | >>@free4allVPN::DE
+vmess://eyJhZGQiOiIxMDQuMTcuMTc2LjE3MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2U3aHozNmV3ei00NTE1MDE3NDczLm1hc2hhbGxhaGJldC5jb20iLCJpZCI6IjZjYmM5Yzc4LTFjYjEtNTdkNC1hOTk5LWUyZjRlMzRjMWUwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6Ij4+QGZyZWU0YWxsVlBOOjpERSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+# ?? | 1056ms | 🇸🇬[openproxylist.com] vless-SG
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.34:80?encryption=none&security=none&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
+# CA | 1062ms | 🌐T-Net Plus`
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.25.127.173:443?encryption=none&security=tls&sni=sib.sibzamini.dpdns.org&fp=random&type=ws&host=sib.sibzamini.dpdns.org&path=%2FBaRAyeIran%3Fed%3D2560#%F0%9F%8C%90T-Net%20Plus`
+# ?? | 1086ms | @meli_v2rayn-IR-09
+vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imd2bnNreHdpa28tNDUxNTAxNzQ3NC5tYXNoYWxsYWhiZXQuY29tIiwiaWQiOiJndm5za3h3aWtvIiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4iLCJwb3J0IjoiODA4MCIsInBzIjoiQG1lbGlfdjJyYXluLUlSLTA5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# ?? | 1096ms | 🌐 @Maziyar_Configs | مازیار کانفیگ```
+vless://428a89cb-4d52-4acc-81b6-c9dcf381a1b2@www.speedtest.net:443?encryption=none&security=tls&sni=rayan-light.parvin.dpdns.org&fp=chrome&allowInsecure=1&type=ws&host=rayan-light.parvin.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20%40Maziyar_Configs%20%7C%20%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF```
+# ?? | 1116ms | >>@outlinev2rayng::US
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.241.234:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&fp=random&type=ws&sni=dw.alibichareh.dpdns.org#%3E%3E%40outlinev2rayng%3A%3AUS
+# ?? | 1192ms | v2raydz
+vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoidjJyYXlkeiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=`
+# ?? | 1205ms | Telegram: @v2node
+vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjJ1N29waTVzcWctNDUxNTAxNzQ3Ni5tYXNoYWxsYWhiZXQuY29tIiwiaWQiOiIydTdvcGk1c3FnIiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4iLCJwb3J0IjoiODA4MCIsInBzIjoiVGVsZWdyYW06IEB2Mm5vZGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+# ?? | 1210ms | 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080
+# ?? | 1210ms | >>@V2rayNG3::NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%3E%3E%40V2rayNG3%3A%3ANL
+# ?? | 1234ms | @Filter_breaker
+vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InhqdTk2a250ZmotNDUxNTAxNzQ3OC5tYXNoYWxsYWhiZXQuY29tIiwiaWQiOiJ4anU5NmtudGZqIiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4iLCJwb3J0IjoiODA4MCIsInBzIjoiQEZpbHRlcl9icmVha2VyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# ?? | 1241ms | Telegram: @v2node
+vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1zNWZ1NjZvZnMtNDUxNTAxNzQ3Ny5tYXNoYWxsYWhiZXQuY29tIiwiaWQiOiJtczVmdTY2b2ZzIiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4iLCJwb3J0IjoiODA4MCIsInBzIjoiVGVsZWdyYW06IEB2Mm5vZGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+# ?? | 1257ms | @Filter_breaker
+vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.16.1.106:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=delam.ahaysiahzangi.dpdns.org&fp=random&type=ws&sni=delam.ahaysiahzangi.dpdns.org#@Filter_breaker
+# ?? | 1274ms | Telegram : @V2rayEnglish`
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=random&type=ws&sni=fggerlad.gerald81.dpdns.org#Telegram%20%3A%20%40V2rayEnglish`
+# ?? | 1316ms | >>@v2ray1_ng::US
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=random&type=ws&sni=fggerlad.gerald81.dpdns.org#%3E%3E%40v2ray1_ng%3A%3AUS
+# ?? | 1387ms | 🇸🇬[openproxylist.com] vless-SG```
+vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.24.135.83:80?encryption=none&security=none&sni=delam.ahaysiahzangi.dpdns.org&fp=random&type=ws&host=delam.ahaysiahzangi.dpdns.org&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG```
+# ?? | 1394ms | 🪐32@oneclickvpnkeys
+vmess://eyJhZGQiOiJkZGRmRkZ2dkJuaEpVLjkzMS5wUC51QSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJkZGRmZmZ2dmJuaGp1LjkzMS5wcC51YSIsImlkIjoiYTRlOGVjMGEtNzVkMC00ZmM1LTgzN2EtNDk3M2VkM2E5ZDNlIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE0RnppcXcxaFlnQ1hOdXRrUzVIIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+qkDMyQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJkRGRmZkZWdmJOSEpVLjkzMS5QUC5VYSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+# CA | 1416ms | 🌐 @Maziyar_Configs | مازیار کانفیگ```
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?encryption=none&security=none&sni=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&host=barayeiran.nastaranh.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20%40Maziyar_Configs%20%7C%20%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF```
+# RU | 1429ms | >>@vmessiran::RU
+vmess://eyJhZGQiOiIzMS4xMjkuMTA1LjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMzEuMTI5LjEwNS4yMzkiLCJpZCI6Ijc5M2UwM2NjLTJiMDgtNGQxYi1iYjBiLTU5MjU2N2QxOTA0MyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTYyMzEiLCJwcyI6Ij4+QHZtZXNzaXJhbjo6UlUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
+# CA | 1441ms | 🌐T-Net Plus`
+vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.76.167:80?encryption=none&security=none&sni=aymng.bahareh.dpdns.org&fp=random&type=ws&host=aymng.bahareh.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%8C%90T-Net%20Plus`
+# CA | 1469ms | 🇸🇬[openproxylist.com] vless-SG
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.19.174.68:443?encryption=none&security=tls&sni=rayan-08.leila.dpdns.org&fp=chrome&type=ws&host=rayan-08.leila.dpdns.org&path=%2F%40Rayan_Config#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
+# ?? | 1471ms | 🇱🇹 Lithuania - NA 🌍 SS-TCP-NA 4⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
