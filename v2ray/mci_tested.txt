@@ -2,23 +2,43 @@
 vless://5e83d6da-ec4b-43df-b496-82b1b2027c0b@172.66.46.97:80?encryption=none&security=none&sni=muddy-sunset-3bd3.chi-scka-l-umand-i1-91.workers.dev&fp=randomized&allowInsecure=1&type=ws&host=muddy-sunset-3bd3.chi-scka-l-umand-i1-91.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
 wireguard://aNl0S3Df3%2BpBM1Xy7fyk0QZcriSNcSGrgR63TaSz1nI%3D@188.114.98.224:928?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A84ca%3Aecc%3A46bc%3Adb6e%3Aebf0%2F128&presharedkey=&reserved=81%2C224%2C31&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1285#%F0%9F%87%AE%F0%9F%87%B7wire-g
 ##-STATIC-CONFIGS-##
-# GB | 953ms | 🔒 VL-WS-NA 🇬🇧 GB-109.176.239.3:8880
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@109.176.239.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram#🔒 VL-WS-NA 🇬🇧 GB-109.176.239.3:8880
-# ?? | 969ms | 🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.90:80
-vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?security=none&type=ws&host=s1.mitivpn.workers.dev&path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.90:80
-# US | 1031ms | 🔒 VL-WS-NA 🇺🇸 US-135.84.74.247:8880
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@135.84.74.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-135.84.74.247:8880
-# ?? | 1051ms | 🔒 VL-WS-NA 🇺🇸 US-135.84.75.13:8880
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@135.84.75.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.75.13:8880
-# ES | 1286ms | @V2RayAG (🇪🇸) | کانفیگ‌های رایگان
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUFZvbVJScWRGR1JUSmxWMEx4OGlt@194.87.45.189:443#@V2RayAG (🇪🇸) | کانفیگ‌های رایگان
-# ?? | 1394ms | 🔒 VL-WS-NONE 🇭🇰 HK-45.192.222.213:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.213:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F#🔒 VL-WS-NONE 🇭🇰 HK-45.192.222.213:8880
-# ?? | 1403ms | 🔒 VL-WS-NA 🇺🇸 US-198.62.62.247:8880
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@198.62.62.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-198.62.62.247:8880
-# US | 1462ms | 🔒 VL-WS-NA 🇺🇸 US-199.34.229.3:8880
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@199.34.229.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-199.34.229.3:8880
-# ?? | 1486ms | 🔒 VL-WS-NONE 🇺🇸 US-141.193.213.10:80
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?security=none&type=ws&host=us.laoyoutiao.link&path=%2Ftelegram-MTMVPN#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.10:80
-# ?? | 1489ms | 🔒 VL-WS-NONE 🇺🇸 US-135.84.76.63:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.76.63:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NONE 🇺🇸 US-135.84.76.63:8880
+# ?? | 746ms | @vpnclashfa - 1375
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@vpnclashfa - 1375
+# ?? | 810ms | RELAY🚩 | barayeiranmahsang.loseyourself.dpdns.org-80 | 12.28ms
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#RELAY🚩 | barayeiranmahsang.loseyourself.dpdns.org-80 | 12.28ms
+# ?? | 932ms | @vpnclashfa - 1373
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@vpnclashfa - 1373
+# ?? | 956ms | @vpnclashfa - 1374
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@vpnclashfa - 1374
+# ?? | 1080ms | RELAY🚩 | barayeiranmahsang.loseyourself.dpdns.org-80 | 2.6ms
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?encryption=none&security=none&sni=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.loseyourself.dpdns.org&path=%40vpnserverrr#RELAY🚩 | barayeiranmahsang.loseyourself.dpdns.org-80 | 2.6ms
+# ?? | 1126ms | @vpnclashfa - 1368
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80/?path=%2F%3Fed%3D2560%2F%3FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@vpnclashfa - 1368
+# ?? | 1153ms | RELAY🚩 | barayeiranmahsang.loseyourself.dpdns.org-80 | 3.02ms
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#RELAY🚩 | barayeiranmahsang.loseyourself.dpdns.org-80 | 3.02ms
+# ?? | 1153ms | @Hddify | چنل هدیفای 🤼
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FCHANEL%40RK_VPS%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#%40Hddify%20%7C%20%DA%86%D9%86%D9%84%20%D9%87%D8%AF%DB%8C%D9%81%D8%A7%DB%8C%20%F0%9F%A4%BC
+# ?? | 1156ms | @vpnclashfa - 1372
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3F_CHANEL%40vpnserverrr&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@vpnclashfa - 1372
+# ?? | 1232ms | FR🇫🇷 | lgoin.persianmizban.com-443 | 235.54ms
+vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=chrome&type=ws&host=lgoin.persianmizban.com&path=%2F#FR🇫🇷 | lgoin.persianmizban.com-443 | 235.54ms
+# ?? | 1235ms | @vpnclashfa - 1370
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FCHANEL%40RK_VPS%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@vpnclashfa - 1370
+# RU | 1268ms | @vpnclashfa - 378
+ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@185.146.156.161:20#@vpnclashfa - 378
+# RU | 1268ms | RU🇷🇺+|+185.146.156.161-20+|+187.24ms
+ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@185.146.156.161:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+185.146.156.161-20+%7C+187.24ms
+# ?? | 1278ms | @vpnclashfa - 1366
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80/?encryption=none&security=none&sni=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.loseyourself.dpdns.org&path=%40vpnserverrr#@vpnclashfa - 1366
+# ?? | 1286ms | 🇸🇬[openproxylist.com] vless-SG
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp#🇸🇬[openproxylist.com] vless-SG
+# ?? | 1293ms | @vpnclashfa - 1472
+vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@record.persianmizban.com:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=chrome&type=ws&host=lgoin.persianmizban.com&path=%2F#@vpnclashfa - 1472
+# ?? | 1323ms | @vpnclashfa - 1369
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?encryption=none&security=none&sni=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.loseyourself.dpdns.org&path=%40vpnserverrr#@vpnclashfa - 1369
+# ?? | 1326ms | RELAY🚩 | barayeiranmahsang.loseyourself.dpdns.org-80 | 2.41ms
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3F%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#RELAY🚩 | barayeiranmahsang.loseyourself.dpdns.org-80 | 2.41ms
+# ?? | 1354ms | @vpnclashfa - 1367
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80/?path=%2F%3Fed%3D2560%2F%3F@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@vpnclashfa - 1367
+# ?? | 1369ms | @vpnclashfa - 205
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRFpqTQ==@pl.opensocks.site:8388#@vpnclashfa - 205
